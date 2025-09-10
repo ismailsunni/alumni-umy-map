@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Alumni Distribution Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app" class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header__content">
+                <h1 class="header__title">Alumni Distribution Map</h1>
+                <div class="search-container">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="form-control search-input" 
+                        placeholder="Search alumni by name, company, or position..."
+                        autocomplete="off"
+                    >
+                    <button id="clearSearch" class="btn-clear hidden" type="button" aria-label="Clear search">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <button id="toggleSidebar" class="sidebar-toggle" aria-label="Toggle sidebar">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                    <line x1="3" y1="18" x2="21" y2="18"></line>
+                </svg>
+            </button>
+        </header>
+
+        <div class="main-container">
+            <!-- Sidebar -->
+            <aside id="sidebar" class="sidebar">
+                <div class="sidebar__content">
+                    <div class="alumni-stats">
+                        <h3>Alumni Overview</h3>
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <span class="stat-number" id="totalAlumni">0</span>
+                                <span class="stat-label">Total Alumni</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="visibleAlumni">0</span>
+                                <span class="stat-label">Visible on Map</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="alumni-list-container">
+                        <h3 class="alumni-list-title">Alumni List</h3>
+                        <div id="alumniList" class="alumni-list">
+                            <div class="loading-state">
+                                <p>Loading alumni data...</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="contact-info">
+                        <h4>Contact Information</h4>
+                        <div class="contact-item">
+                            <strong>Email:</strong>
+                            <a href="mailto:alumni-admin@university.edu" target="_blank">alumni-admin@university.edu</a>
+                        </div>
+                        <div class="contact-item">
+                            <strong>Phone:</strong>
+                            <a href="tel:+12345678900" target="_blank">+1-234-567-8900</a>
+                        </div>
+                        <div class="contact-item">
+                            <strong>Office Hours:</strong>
+                            Monday-Friday, 9:00 AM - 5:00 PM
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Map Container -->
+            <main class="map-container">
+                <div id="map" class="map"></div>
+                <div class="map-controls">
+                    <button id="resetView" class="btn btn--secondary btn--sm">
+                        Reset View
+                    </button>
+                </div>
+            </main>
+        </div>
+
+        <!-- Alumni Profile Modal -->
+        <div id="profileModal" class="modal hidden" role="dialog" aria-labelledby="profileTitle" aria-hidden="true">
+            <div class="modal__backdrop" id="modalBackdrop"></div>
+            <div class="modal__content">
+                <div class="modal__header">
+                    <h2 id="profileTitle" class="modal__title">Alumni Profile</h2>
+                    <button id="closeModal" class="modal__close" aria-label="Close modal">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+                <div class="modal__body">
+                    <div id="profileContent" class="profile-content">
+                        <!-- Profile content will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading Overlay -->
+        <div id="loadingOverlay" class="loading-overlay">
+            <div class="loading-spinner"></div>
+            <p>Loading map and alumni data...</p>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
