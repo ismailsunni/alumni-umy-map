@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>University Alumni Distribution Map</title>
+    <title>UMY Alumni Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
@@ -14,7 +14,7 @@
         <!-- Header -->
         <header class="header">
             <div class="header__content">
-                <h1 class="header__title">Alumni Distribution Map</h1>
+                <h1 class="header__title">UMY Alumni Map</h1>
                 <div class="search-container">
                     <input 
                         type="text" 
@@ -95,8 +95,13 @@
             <main class="map-container">
                 <div id="map" class="map"></div>
                 <div class="map-controls">
-                    <button id="resetView" class="btn btn--secondary btn--sm">
-                        Reset View
+                    <button id="resetView" class="btn btn--secondary btn--sm" title="Reset View" aria-label="Reset map view">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"></path>
+                            <path d="M21 3v5h-5"></path>
+                            <path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"></path>
+                            <path d="M3 21v-5h5"></path>
+                        </svg>
                     </button>
                 </div>
             </main>
