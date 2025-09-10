@@ -15,6 +15,7 @@ const elements = {
   searchInput: document.getElementById('searchInput'),
   clearSearch: document.getElementById('clearSearch'),
   toggleSidebar: document.getElementById('toggleSidebar'),
+  closeSidebar: document.getElementById('closeSidebar'),
   sidebar: document.getElementById('sidebar'),
   alumniList: document.getElementById('alumniList'),
   totalAlumni: document.getElementById('totalAlumni'),
@@ -112,6 +113,7 @@ function setupEventListeners() {
 
   // Sidebar toggle for mobile
   elements.toggleSidebar.addEventListener('click', toggleSidebar);
+  elements.closeSidebar.addEventListener('click', closeSidebar);
 
   // Modal controls
   elements.closeModal.addEventListener('click', closeProfileModal);

@@ -821,6 +821,38 @@ select.form-control {
   background-color: var(--color-secondary);
 }
 
+.sidebar-close {
+  display: none;
+  position: absolute;
+  top: var(--space-16);
+  right: var(--space-16);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  padding: var(--space-6);
+  border-radius: var(--radius-full);
+  transition: all var(--duration-fast) var(--ease-standard);
+  z-index: 10;
+  box-shadow: var(--shadow-sm);
+  width: 32px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar-close:hover {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-md);
+  transform: scale(1.05);
+}
+
+.sidebar-close:active {
+  transform: scale(0.95);
+}
+
 /* Main Container */
 .main-container {
   display: flex;
@@ -1284,6 +1316,10 @@ select.form-control {
 
   .sidebar.open {
     transform: translateX(0);
+  }
+
+  .sidebar-close {
+    display: flex;
   }
 
   .map-controls {
