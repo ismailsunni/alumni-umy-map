@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.4024,
-          -7.7325
+          110.3180886,
+          -7.7972087
         ]
       },
       "properties": {
@@ -17,8 +17,11 @@
         "tahun_masuk_umy": 2015,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********00",
-        "alamat": "Jl. Delingsari No.56, Patukan, Ambarketawang, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55294",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "Mhd.aldinosyahputra@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/rb6HQEVyxVVhG4ht9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:33:45.262000"
       }
     },
     {
@@ -26,19 +29,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          134.062,
-          -0.8615
+          132.6847678,
+          -0.8905453
         ]
       },
       "properties": {
-        "nama": "RIZKY IRMANSYAH",
-        "instansi": "KISEL GRUP",
+        "nama": "Rizky Irmansyah",
+        "instansi": "Kisel Grup",
         "posisi": "Driver",
         "tahun_masuk_umy": 2011,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********56",
-        "alamat": "Manokwari",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "rizkyirmansyah67@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/3crrEDZkGjdcXezf8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:41:30.929000"
       }
     },
     {
@@ -46,8 +52,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.2436,
-          -3.4633
+          117.8277234,
+          1.1485083
+        ]
+      },
+      "properties": {
+        "nama": "Sudirman ",
+        "instansi": "Pertambangan Batubara ",
+        "posisi": "Foreman General Affair ",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********66",
+        "email": "sudirmanrj27@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/horocLuQfXvcCpMV6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:41:38.360000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7760158,
+          -3.6607626
         ]
       },
       "properties": {
@@ -57,8 +86,11 @@
         "tahun_masuk_umy": 2011,
         "tahun_lulus_umy": 2015,
         "no_wa": "08********90",
-        "alamat": "Islamic Center Muara Enim",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "sohe.asyahri@gmail.com",
+        "aktivitas_saat_ini": "DPUPR Kab.",
+        "alamat_kerja_url": "https://maps.app.goo.gl/dFkVapKc28JVEefX9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:43:05.319000"
       }
     },
     {
@@ -66,19 +98,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          106.9320201,
+          -6.1788075
         ]
       },
       "properties": {
         "nama": "Andri Arnando",
-        "instansi": "PT. SAYAP MAS UTAMA 1-WINGS GROUP",
+        "instansi": "PT. Sayap Mas Utama 1 - Wings Group",
         "posisi": "Production Technician",
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********64",
-        "alamat": "Jl.tipar cakung",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "andriarnando@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Nqx5ffJXpBi2PMs66",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:43:39.486000"
       }
     },
     {
@@ -86,8 +121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.056,
-          -6.0167
+          105.936294,
+          -6.0264753
         ]
       },
       "properties": {
@@ -97,8 +132,11 @@
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********25",
-        "alamat": "Jl Raya Anyer KM 121,Cilegon, Banten",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "Naufal1611@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/7RQNgtYZh1FEpbEt9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:43:41.275000"
       }
     },
     {
@@ -106,19 +144,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.3,
-          -6.319
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Irfan Arfiyanto",
+        "instansi": "ADR Group of Companies",
+        "posisi": "Product Development Engineering",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2023,
+        "no_wa": "08********11",
+        "email": "irfanarfi24@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/WdhkpvpFogUHnawK8?g_st=com.google.maps.preview.copy",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:45:10.270000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2862123,
+          -6.3589882
         ]
       },
       "properties": {
         "nama": "Lucky Andika Putra",
-        "instansi": "PT HM Sampoerna",
+        "instansi": "PT. HM Sampoerna",
         "posisi": "Produksi",
         "tahun_masuk_umy": 2018,
         "tahun_lulus_umy": 2021,
         "no_wa": "08*******16",
-        "alamat": "Karawang Plant",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "ndk5450@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/xEzLZVPmeJBXQ9ALA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:45:16.925000"
       }
     },
     {
@@ -126,8 +190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.63,
-          -6.1781
+          106.7279781,
+          -6.1205037
         ]
       },
       "properties": {
@@ -137,8 +201,11 @@
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********37",
-        "alamat": "Tangerang",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "rahmatdwi55@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/2GeorvtVtqGa3dZs5",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:45:32.042000"
       }
     },
     {
@@ -146,8 +213,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.806,
-          -6.5971
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad Nadziful Malik",
+        "instansi": "PT Superkrane Mitra Utama",
+        "posisi": "Maintenance Planner",
+        "tahun_masuk_umy": 2016,
+        "tahun_lulus_umy": 2020,
+        "no_wa": "08********26",
+        "email": "nadziful.malik@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x2e6a2019e6d365f5:0x86e8ba97e1830470?entry=s&sa=X&ved=1t:8290&hl=id&ictx=111",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:45:44.098000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Adib Muhammad Nuh",
+        "instansi": "Agy Jaya",
+        "posisi": "Ceo",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********64",
+        "email": "adibmuhammadn@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/iwf7Ts6BdtTfyecK7?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:45:49.188000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7726587,
+          -6.5061991
         ]
       },
       "properties": {
@@ -156,9 +269,12 @@
         "posisi": "Kepala Laboratorium Uji Sarana Transportasi ",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
-        "no_wa": "82*******55",
-        "alamat": "Puslitbang Polri, Jl. Raya Tonjong desa cimanggis Bojonggede, Bogor Jawa Barat",
-        "sumber_koordinat": "Manual (estimasi)"
+        "no_wa": "08********55",
+        "email": "Afrifajar20@gmail.com ",
+        "aktivitas_saat_ini": "Anggota Polisi",
+        "alamat_kerja_url": "https://maps.app.goo.gl/AEebPvLkhY2hojY29",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:47:27.350000"
       }
     },
     {
@@ -166,8 +282,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Septian Wahyu Widodo",
+        "instansi": "PT Madhani Talatah Nusantara",
+        "posisi": "Plant Superintendent",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********10",
+        "email": "Septian.widodo23@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Y6EqBxjThhznA4Zk6?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:48:09.825000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7726587,
+          -6.5061991
         ]
       },
       "properties": {
@@ -177,8 +316,11 @@
         "tahun_masuk_umy": 2011,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********06",
-        "alamat": "Lampung Timur",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "Arif.iskandar1896@gmail.com",
+        "aktivitas_saat_ini": "Bertani",
+        "alamat_kerja_url": "https://maps.app.goo.gl/XYkqxDkvtYUw9qyc9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:48:33.331000"
       }
     },
     {
@@ -186,19 +328,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          109.4982599,
+          -7.608187
         ]
       },
       "properties": {
         "nama": "Ruli S.T.",
-        "instansi": "Jasa konstruksi perorangan ",
+        "instansi": "Jasa Konstruksi Perorangan ",
         "posisi": "Mandor ",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********13",
-        "alamat": "Gombong,kebumen",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "truly3501@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/hTuVWpMvMJY18zDF6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:49:05.917000"
       }
     },
     {
@@ -206,19 +351,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          106.8168274,
+          -6.2406402
         ]
       },
       "properties": {
         "nama": "Fuad Satriyaji",
-        "instansi": "PT Radiant Utama Interinsco",
+        "instansi": "PT. Radiant Utama Interinsco",
         "posisi": "RBI Engineer",
         "tahun_masuk_umy": 2020,
         "tahun_lulus_umy": 2024,
         "no_wa": "08*******48",
-        "alamat": "Jl. Kapten Tendean No. 24, Mampang Prapatan Jakarta 12720; Indonesia",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "fuadsatriyaji25@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/uWL9PVjQPyfveHTq6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:50:03.019000"
       }
     },
     {
@@ -226,19 +374,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          116.553559,
+          -8.7994039
         ]
       },
       "properties": {
         "nama": "Tegar Bagaskara Febriansyah",
-        "instansi": "PT Cikal Citra Mapan",
+        "instansi": "PT. Cikal Citra Mapan",
         "posisi": "Health Safety Environment",
         "tahun_masuk_umy": 2018,
         "tahun_lulus_umy": 2023,
         "no_wa": "08********41",
-        "alamat": "Sumbawa Barat",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "bagaskarategar04@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/MD3m7NcbK3y9Abkt8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:50:39.498000"
       }
     },
     {
@@ -246,19 +397,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          105.2519511,
+          -5.4078239
         ]
       },
       "properties": {
         "nama": "Tintus Dwi Cahyo",
-        "instansi": "little embassy, lebudia, bubble blizz",
+        "instansi": "Little Embassy, Lebudia, Bubble Blizz",
         "posisi": "owner",
         "tahun_masuk_umy": 2011,
         "tahun_lulus_umy": 2023,
         "no_wa": "08********64",
-        "alamat": "pasar lebak budi, tanjung karang pusat",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "tintusdwi03@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/6aADBDxK94xL3ZJq7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:50:39.604000"
       }
     },
     {
@@ -266,19 +420,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.056,
-          -6.0167
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad Aldi Riyadi",
+        "instansi": "PT. Adis Dimension Footwear",
+        "posisi": "Staff",
+        "tahun_masuk_umy": 2017,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08********58",
+        "email": "muhammadaldi497@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/t3xRLcyk81wmwLyy8",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:51:14.156000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Miftahul Faruq Ibnul Fatoni",
+        "instansi": "Universitas Muhammadiyah Yogyakarta",
+        "posisi": "Laboran",
+        "tahun_masuk_umy": 2020,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08********13",
+        "email": "miftah.faruqibnul@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Universitas",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ymCEiHjcPHZMc2Z96",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:52:10.171000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0234174,
+          -5.8968075
         ]
       },
       "properties": {
         "nama": "Muhammad Arinalhaq Eko Nugroho",
-        "instansi": "PT Hutama Karya",
+        "instansi": "PT. Hutama Karya",
         "posisi": "QA/QC Inspector",
         "tahun_masuk_umy": 2017,
         "tahun_lulus_umy": 2022,
         "no_wa": "08********02",
-        "alamat": "Jalan Plta Lodoyo No.42, Suralaya, Kec. Pulomerak, Kota Cilegon, Banten 42439",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "arinaleko77@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ipzE6BksXmiRfkiB9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:53:21.428000"
       }
     },
     {
@@ -286,19 +489,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Subkhan Nur Ikhsan ",
+        "instansi": "PT. SAN Sinergi Solusindo ",
+        "posisi": "Direktur",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********90",
+        "email": "ikhsan@sansinergi.co.id",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/EXtWBM4bHiMyVbwYA",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:53:40.722000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.115797,
+          -3.2705585
         ]
       },
       "properties": {
         "nama": "Dimas Niko Ramadhan",
-        "instansi": "PT.SMART Tbk Refinery Tarjun",
+        "instansi": "PT. SMART Tbk Refinery Tarjun",
         "posisi": "Transport Logistic officer",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08*********94",
-        "alamat": "Desa tarjun, kec kelumpang hilir, kab kotabaru, kalimantan selatan",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "dimasnikoramadhan@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/2HAj6aN6VpEjes5Q6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:54:27.227000"
       }
     },
     {
@@ -306,19 +535,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          102.5514766,
+          -1.0057561
         ]
       },
       "properties": {
         "nama": "Arbi rosadi ",
-        "instansi": "PT. LONTAR PAPYRUS PULP AND PAPER INDUSTRY JAMBI",
+        "instansi": "PT. Lontar Papyrus Pulp and Paper Industry",
         "posisi": "Purchasing spesialis wood Preparation ",
         "tahun_masuk_umy": 2015,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********14",
-        "alamat": "Tebing Tinggi, Kec. Tebing Tinggi, Kabupaten Tanjung Jabung Barat, Jambi 36552",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "Arbirosadi96@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/QQqjF59LQYTUfEuh9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:55:35.889000"
       }
     },
     {
@@ -326,8 +558,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Faishal Abdurrasyid ",
+        "instansi": "Arkananta Apta Pratista ",
+        "posisi": "Maintenance Planner",
+        "tahun_masuk_umy": 2020,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08********16",
+        "email": "abdurrasyidfaishal@gmail.com",
+        "aktivitas_saat_ini": "Mining",
+        "alamat_kerja_url": "https://maps.app.goo.gl/TynekNph5JP5tJzeA",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:55:49.407000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6384281,
+          -7.6783682
         ]
       },
       "properties": {
@@ -337,8 +592,11 @@
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********83",
-        "alamat": "Kebumen",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "diegomaryanto@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/jDFmEQR5FdZvE1kk9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:56:41.199000"
       }
     },
     {
@@ -346,19 +604,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.806,
-          -6.5971
+          105.7839534,
+          -5.5986217
+        ]
+      },
+      "properties": {
+        "nama": "Achmad Zamhari Julianto ",
+        "instansi": "Arzenic Printing",
+        "posisi": "Owner ",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08********05",
+        "email": "achmadzamhari38@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/5ESh8UJvx6WJztuQ6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:56:57.641000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8769283,
+          -6.5129935
         ]
       },
       "properties": {
         "nama": "Joko Triyono",
-        "instansi": "PT Elangperdana Tyre Industry",
+        "instansi": "PT. Elangperdana Tyre Industry",
         "posisi": "Section Manager Engineering",
         "tahun_masuk_umy": 2009,
         "tahun_lulus_umy": 2014,
         "no_wa": "08********49",
-        "alamat": "Jl. Elang, Sukahati, Kec. Citeureup, Kabupaten Bogor, Jawa Barat 16810",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "triyono7890@yahoo.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/unXjKJwGDC4bbqnE9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:57:37.723000"
       }
     },
     {
@@ -366,8 +650,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Rakha Syahir Salihan",
+        "instansi": "PT. Bumi Nusantara Jaya",
+        "posisi": "FO QC Coal & Technical ",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********19",
+        "email": "rakhasyahirs@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/eVj9otE8NsW2FsUB9",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:57:47.908000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8430433,
+          -6.2592247
         ]
       },
       "properties": {
@@ -377,8 +684,11 @@
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********97",
-        "alamat": "PT REKAYASA ENGINEERING, Gedung Graha RE, Jl. Kalibata Timur II No.27, Kalibata, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12740",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "bayshaf06@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/3TSzTMXWeeRuTxo87",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 18:58:30.814000"
       }
     },
     {
@@ -386,19 +696,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Niko Prastomo",
+        "instansi": "PT. Geopersada Mulia Abadi",
+        "posisi": "Tyre Supervisor",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********12",
+        "email": "prastomoniko@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/wvkzs6HxL2ccbVVb7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 18:59:55.793000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7815385,
+          -6.2939911
         ]
       },
       "properties": {
         "nama": "Yoga Nagara Dwi R",
-        "instansi": "PT BUKIT MAKMUR MANDIRI UTAMA (BUMA)",
+        "instansi": "PT. Bukit Makmur Mandiri Utama (BUMA)",
         "posisi": "Jr. Specialist Maintenance & Improvement Analityc",
         "tahun_masuk_umy": 2017,
         "tahun_lulus_umy": 2021,
         "no_wa": "08********69",
-        "alamat": "South Quarter, Jl. R.A. Kartini No.Kav. 8, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "Nagarayoga26@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Amo1nMa5hifPZqZ88",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:00:25.817000"
       }
     },
     {
@@ -406,19 +742,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          112.7521,
-          -7.2575
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Pifhe Muhamad Akbar",
+        "instansi": "Binabusana Internusa Group",
+        "posisi": "Section head of mechanic",
+        "tahun_masuk_umy": 2017,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08********59",
+        "email": "pifhema@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/dAAi5aAbCTWT3bnc9",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:01:10.600000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Ilham Alan Firdaus",
+        "instansi": "PT. Pesona Bunga Medika",
+        "posisi": "Staff Operasional",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2022,
+        "no_wa": "08*******07",
+        "email": "ilhamalanfirdaus21@gmail.com",
+        "aktivitas_saat_ini": "Karyawan swasta",
+        "alamat_kerja_url": "https://maps.app.goo.gl/WhYnkUDbssEmmoXD8",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:01:31.058000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Azyumuardy Azra S",
+        "instansi": "Asian Agri",
+        "posisi": "PHL",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08********53",
+        "email": "azyumuardiazra12@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/sKfwgkRir67veFES9?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:01:48.268000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8706631,
+          -6.2455502
         ]
       },
       "properties": {
         "nama": "Sidik permana",
-        "instansi": "PT AGRINAS PALMA NUSANTARA / PT INDRA KARYA",
+        "instansi": "PT. Agrinas Palma Nusantara/ PT. Indra Karya",
         "posisi": "Asisten Ahli Hidromekanikal",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********16",
-        "alamat": "PT. Indra Karya Divisi Engineering 1, Jl. Surabaya No.3A, Gading Kasri, Kec. Klojen, Kota Malang, Jawa Timur 65115",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "sidikpermana2703@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/q1YMf12NDqCTRpNA6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:03:54.702000"
       }
     },
     {
@@ -426,19 +834,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.806,
-          -6.5971
+          106.8583183,
+          -6.4721483
         ]
       },
       "properties": {
         "nama": "Danan Primasandi",
-        "instansi": "PT FAJAR BENUA INDOPACK",
+        "instansi": "PT. Fajar Benua Indopack",
         "posisi": "Sales Manager",
         "tahun_masuk_umy": 2006,
         "tahun_lulus_umy": 2011,
         "no_wa": "08********99",
-        "alamat": "Bogor",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "Danan_mei@yahoo.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Tv4oNFT6rbc7QodEA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:05:07.739000"
       }
     },
     {
@@ -446,19 +857,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
         ]
       },
       "properties": {
-        "nama": "AZIS WIDIANTORI",
-        "instansi": "Toko sembako & spearpat motot + tani sawit sendiri",
-        "posisi": "Boss",
-        "tahun_masuk_umy": 2013,
-        "tahun_lulus_umy": 2018,
-        "no_wa": "08********80",
-        "alamat": "Kamilantan barat, kab. Ketapang, kec. Manismata",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "nama": "Tutut Hardianto",
+        "instansi": "CV. Hardianto Logistindo",
+        "posisi": "Pemilik",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********78",
+        "email": "Tututhardianto17@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/RA6oVR9exa52cHjm9",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:06:39.955000"
       }
     },
     {
@@ -466,8 +880,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.63,
-          -6.1781
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Akhmad Sidik",
+        "instansi": "PT. United Tractors",
+        "posisi": "COP (Customer Other Prosessor)",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********70",
+        "email": "sidik.kun77@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.apple.com/place?address=Pengadan%20Baru,%20Kabupaten%20Kutai%20Timur,%20East%20Kalimantan,%20Indonesia&coordinate=1.167646,117.698649&name=Office%20United%20Tractors%20Sangkulirang%20Support%20Point%20GAM&place-id=IEB6A9B9004E3066D&map=explore",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:06:41.867000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7863774,
+          -6.1588902
+        ]
+      },
+      "properties": {
+        "nama": "Khalid Ibrahim",
+        "instansi": "PT. Danan Wingus Sakti",
+        "posisi": "Jr Technical Engineer",
+        "tahun_masuk_umy": 2020,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08**********74",
+        "email": "khalidengineering29@gmail.com ",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/evvvheSrvh42vjCk7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:06:49.514000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6553861,
+          -2.4475228
+        ]
+      },
+      "properties": {
+        "nama": "Azis Widiantori",
+        "instansi": "Toko Sembako & Spearpat Motor,  Perkebunan Sawit",
+        "posisi": "Owner",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********80",
+        "email": "Umaizanusaibah2018@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ZKcSJkdA1N8MiXnT9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:08:25.509000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6317344,
+          -6.3585976
         ]
       },
       "properties": {
@@ -477,8 +960,11 @@
         "tahun_masuk_umy": 2007,
         "tahun_lulus_umy": 2011,
         "no_wa": "08********22",
-        "alamat": "Kawasan Puspiptek, Tangerang Selatan",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "yatno220989@gmail.com",
+        "aktivitas_saat_ini": "Badan Riset dan Inovasi Nasional",
+        "alamat_kerja_url": "https://maps.app.goo.gl/fqxHMfuXLKiqXmA17",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:10:34.990000"
       }
     },
     {
@@ -486,8 +972,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          106.8249114,
+          -6.3126516
         ]
       },
       "properties": {
@@ -497,8 +983,11 @@
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********87",
-        "alamat": "Jl. Kav. Taman Palem No.9, Kebagusan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12520",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "agungwiyanto27@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/xbwJqFgvcKD4WSgv6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:12:13.567000"
       }
     },
     {
@@ -506,19 +995,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          117.0394016,
+          -0.7832349
         ]
       },
       "properties": {
         "nama": "Agus bastian ",
-        "instansi": "CV.Abe Surya medika dan PT. Abe Surya teknindo",
+        "instansi": "CV. Abe Surya Medika dan PT. Abe Surya Teknindo",
         "posisi": "Owners ",
         "tahun_masuk_umy": 2011,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********86",
-        "alamat": "Jl. Ir Soekarno RT 16. Kelurahan muara Jawa ulu kecamatan muara Jawa kabupate Kutai Kartanegara. Prov Kalimantan timu",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "absuryateknindo08@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/rBqPQpzrbNWdwFNH9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:14:38.154000"
       }
     },
     {
@@ -526,19 +1018,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          106.9709989,
+          -6.3369007
         ]
       },
       "properties": {
         "nama": "Ahmad Sayogo",
-        "instansi": "PT Multi Makmur Indah Industri",
+        "instansi": "PT. Multi Makmur Indah Industri",
         "posisi": "Leader Produksi",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********80",
-        "alamat": "Jl. Pangkalan 4 No.5, RT.001/RW.006, Cikiwul, Kec. Bantar Gebang, Kota Bks, Jawa Barat 17152",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "ahmad.sayogo@gmal.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/PtBp7M6bkKqYXboD8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:16:54.468000"
       }
     },
     {
@@ -546,8 +1041,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "M Sofyan Bagus pratama",
+        "instansi": "PLTS Merah putih (Dinas Lingkungan hidup Prov. Jakarta) ",
+        "posisi": "Mechanical maintenance",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08********67",
+        "email": "sofyanpratama13@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/VkY9EiWG1t8n354y5",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:16:55.783000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6485961,
+          -1.3773439
         ]
       },
       "properties": {
@@ -557,8 +1075,11 @@
         "tahun_masuk_umy": 2018,
         "tahun_lulus_umy": 2022,
         "no_wa": "08********24",
-        "alamat": "Kalimantan tengah",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "Akbarafrizal471@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/emXG2qAsrZM27GpT7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:17:45.214000"
       }
     },
     {
@@ -566,19 +1087,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6191,
-          -6.9175
+          107.5798266,
+          -6.8983999
         ]
       },
       "properties": {
         "nama": "Muhamad Marwan Masruri",
-        "instansi": "PT Dirgantara Indonesia",
+        "instansi": "PT. Dirgantara Indonesia",
         "posisi": "Flight Control System Engineer",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********79",
-        "alamat": "Bandung",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "marwan.masruri@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/QzezHTQ2T88YWNpAA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:20:39.405000"
       }
     },
     {
@@ -586,19 +1110,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad Arif Nugroho",
+        "instansi": "PT. Elnusa, Tbk.",
+        "posisi": "Well Testing",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********64",
+        "email": "muhammadarif_n@ymail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/g43TrdEoxLXszidz8",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:21:44.751000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6643033,
+          -10.1689166
         ]
       },
       "properties": {
         "nama": "Pungky Wijanarko Prasetyo Wicaksono",
-        "instansi": "PT ANGKASA PURA INDONESIA",
+        "instansi": "PT. Angkasa Pura Indonesia",
         "posisi": "Airport Security Supervisor",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********07",
-        "alamat": "Kantor Cabang Bandar Udara El Tari Kupang",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "pungky.wijanarko.14.pw@gmail.com",
+        "aktivitas_saat_ini": "BUMN",
+        "alamat_kerja_url": "https://maps.app.goo.gl/1c8x7NYoDCxfk1kU6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:24:24.662000"
       }
     },
     {
@@ -606,8 +1156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.63,
-          -6.1781
+          106.4696083,
+          -6.1977204
         ]
       },
       "properties": {
@@ -617,8 +1167,11 @@
         "tahun_masuk_umy": 1999,
         "tahun_lulus_umy": 2004,
         "no_wa": "08********25",
-        "alamat": "Jl raya serang km 22, desa kawidaran. Kec. Cikupa. Kab. Tangerang. Prov. Banten",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "mmaskhunrakha@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/pscgWC7ctnUF7L6VA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:26:11.660000"
       }
     },
     {
@@ -626,8 +1179,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Fariz Abdul Rosyid",
+        "instansi": "PT Indomarco Prismatama",
+        "posisi": "Supervisor",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********00",
+        "email": "farisdulrosyid@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://www.google.com/search?client=ms-android-oppo&sca_esv=8311c5b9cd6f6b3e&sxsrf=AE3TifPXdIRcl9pUFSi_0gtq0oJneNQFoQ%3A1756211160222&kgmid=%2Fg%2F11fhz0qtch&q=PT.%20Indomarco%20Prismatama%20Cabang%20Klaten&shndl=30&shem=lsptbl1&source=sh%2Fx%2Floc%2Fact%2Fm1%2F2&kgs=687980e26e2eb940",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:26:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "David prasetyo ",
+        "instansi": "Tb Abadi Jaya",
+        "posisi": "Owner",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********22",
+        "email": "Davidprastomo@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/gV9xMNtYvzKoD9qg6?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:29:06.273000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.2580805,
+          -2.0908025
         ]
       },
       "properties": {
@@ -637,8 +1236,11 @@
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********24",
-        "alamat": "28H4+HGQ, Suja, Kec. Lamandau, Kabupaten Lamandau, Kal28H4+HGQ, Suja, Kec. Lamandau, Kabupaten Lamandau, Kalimantan Tengahimantan Tengah",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "isnanhidayat66@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/jegg1tGq3ppf7Zem7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:34:08.498000"
       }
     },
     {
@@ -646,19 +1248,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          117.4711856,
+          0.1799231
         ]
       },
       "properties": {
         "nama": "Ahmad Zainal Arifin ",
-        "instansi": "PT Aman ",
+        "instansi": "PT. Aman ",
         "posisi": "Planner Engineer",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********88",
-        "alamat": "Plant Site Kawasan Industri Kaltim Industrial Estate (Kie, Tursina Timur, Kec. Bontang Utara, Kota Bontang, Kalimantan Timur 75313",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "ahmad.zainal.arifin.93@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/rByJtKXj3UwV86Xx8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:35:43.223000"
       }
     },
     {
@@ -666,8 +1271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.3,
-          -6.319
+          103.0585021,
+          -6.3720707
         ]
       },
       "properties": {
@@ -677,8 +1282,11 @@
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********43",
-        "alamat": "KIIC , Karawang, Jawa Barat",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "hiprasetioinang@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ZpnWDmBwdy1Xjmc86",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:37:01.639000"
       }
     },
     {
@@ -686,19 +1294,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.3,
-          -6.319
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad Ikrar Bhakti Praja",
+        "instansi": "PT. Indonesia Ethanol Industry ",
+        "posisi": "Mechanical and maintenance ",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********33",
+        "email": "ikrar.praja123@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Y7RiR3DrLA1qz9UN7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:39:13.717000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.3275905,
+          -6.3893451
         ]
       },
       "properties": {
         "nama": "Nuresa Maulana Djaenuddin",
-        "instansi": "PT KD Heat Technology Indonesia",
+        "instansi": "PT. KD Heat Technology Indonesia",
         "posisi": "Leader Engineering ",
         "tahun_masuk_umy": 2015,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********96",
-        "alamat": "Jl. Surya Nusa No.19-22, Kutanegara, Kec. Ciampel, Karawang, Jawa Barat 41361",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "nuresamd14@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/H9HJ2we8VfEGrhh99",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:40:26.464000"
       }
     },
     {
@@ -706,19 +1340,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          112.13225609999999,
+          -2.4964017
+        ]
+      },
+      "properties": {
+        "nama": "M. Asidik Awaludin",
+        "instansi": "Kebun sawit",
+        "posisi": "Bos ",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2022,
+        "no_wa": "08********71",
+        "email": "Masidik999@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/pkRvWVuWJ3YgiBnQ7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:43:15.691000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Fajar Andika",
+        "instansi": "PT. Karunia Armada Indonesia",
+        "posisi": "PSDP Plant/Technical Engineer A2B (Alat-alat Berat)",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2022,
+        "no_wa": "08********22",
+        "email": "fajarandika.9d@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri, Kerja di Universitas",
+        "alamat_kerja_url": "https://share.google/SPXAQNlqg60NgnIik",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:46:25.707000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Widhi Bagus Kurniawan",
+        "instansi": "Becka Vapor",
+        "posisi": "owner",
+        "tahun_masuk_umy": 2007,
+        "tahun_lulus_umy": 2012,
+        "no_wa": "08********40",
+        "email": "widhybecka@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/jaaxBNUE98u3xBKK6",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:48:52.920000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8071823,
+          -6.1709733
         ]
       },
       "properties": {
         "nama": "Fahmi Arsyan Ad",
-        "instansi": "PT Equinix Indonesia JKT",
+        "instansi": "PT. Equinix Indonesia JKT",
         "posisi": "Senior Critical Facilities Enginner ",
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2021,
         "no_wa": "08********80",
-        "alamat": "Jalan Kuningan Barat Raya nomer 20",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "fahmiarsyanadil@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/1vFakesuTeGFd89L6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:49:16.307000"
       }
     },
     {
@@ -726,19 +1432,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.7754,
-          -2.9761
+          104.749743,
+          -2.953894
         ]
       },
       "properties": {
         "nama": "Randi Abdian Dasa",
-        "instansi": "PT OKI PULP & PAPER MILLS PALEMBANG",
+        "instansi": "PT. OKI  Pulp and Paper Mills Palembang",
         "posisi": "Health, Safety and Environment",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********80",
-        "alamat": "Sungai Baung OKI Palembang",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "Randidasa96@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/VgF3N27GgN8yxN3M9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:49:51.996000"
       }
     },
     {
@@ -746,8 +1455,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Ir. Bambang Surono, S.T., M.Eng., IPM",
+        "instansi": "Universitas Muhammadiyah Metro",
+        "posisi": "Dosen Prodi Teknik Mesin",
+        "tahun_masuk_umy": 2007,
+        "tahun_lulus_umy": 2011,
+        "no_wa": "08********67",
+        "email": "al.qodimy@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Universitas",
+        "alamat_kerja_url": "https://maps.app.goo.gl/CEgbYfrudZNEpgGr8?g_st=ac",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:53:08.944000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2382375,
+          -2.6558142
         ]
       },
       "properties": {
@@ -757,8 +1489,11 @@
         "tahun_masuk_umy": 2020,
         "tahun_lulus_umy": 2024,
         "no_wa": "08********18",
-        "alamat": "QQMG+RW9, Keling Panggau, Kec. Empanang, Kabupaten Kapuas Hulu, Kalimantan Barat 78768",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "kelvinsahputra24@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/iKWVCHb9vrYxTSiE6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:55:52.219000"
       }
     },
     {
@@ -766,19 +1501,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.8279,
-          -1.2635
+          116.819841,
+          -1.2541534
         ]
       },
       "properties": {
         "nama": "Restu Andri Yanto",
-        "instansi": "PT Pertamina (Persero)",
+        "instansi": "PT. Pertamina (Persero)",
         "posisi": "Staff",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********67",
-        "alamat": "Balikpapan",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "resturay1993@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/4AWRhKYeZaziwQz76",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:55:55.403000"
       }
     },
     {
@@ -786,19 +1524,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Immawan Wahyudi Ahyar",
+        "instansi": "Dinas Perhubungan Provinsi Jawa Tengah",
+        "posisi": "PNS",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********96",
+        "email": "immawan.wa@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Pemprov Jawa Tengah",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Gn9LgFyzEzVApWXR8?g_st=aw",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:57:40.466000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Elfhat Mustaqim",
+        "instansi": "PT. Indo Raya Tenaga (PLTU 9&10 2X1000 MW)",
+        "posisi": "Assistant Unit Controller",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********74",
+        "email": "elfatmustaqim@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/WCxFX7Yr6H6AGKF56",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 19:58:43.022000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2807029,
+          1.8074755
         ]
       },
       "properties": {
         "nama": "Muhammad Hasril",
-        "instansi": "PT ARCISTEC INTERNATIONAL ",
+        "instansi": "PT. Arcistec International",
         "posisi": "Penanggung Jawab Operasional",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
-        "no_wa": "85*******09",
-        "alamat": "Berau",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "no_wa": "08********09",
+        "email": "Hasril822@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/sabaXk1k7FEpnRdt6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 19:59:54.023000"
       }
     },
     {
@@ -806,19 +1593,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Sulistyo Pujiono",
+        "instansi": "Indofood",
+        "posisi": "Section Head Maintenance",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********01",
+        "email": "sulistyo.pujiono.eng@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/6H1tgAWAEkkc9vN37?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 20:00:00.400000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.3438271,
+          -6.7075667
         ]
       },
       "properties": {
         "nama": "Hanif Nur Irawan",
-        "instansi": "SMK MUHAMMADIYAH REMBANG",
+        "instansi": "SMK Muhammadiyah Rembang",
         "posisi": "Kepala jurusan ",
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********97",
-        "alamat": "Rembang",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "hanifirawan04@gmail.com",
+        "aktivitas_saat_ini": "SMK MUHAMMADIYAH REMBANG",
+        "alamat_kerja_url": "https://maps.app.goo.gl/oFu8uvrkDNDRvBZ89",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:02:09.137000"
       }
     },
     {
@@ -826,8 +1639,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          113.8248087,
+          -4.0620978
         ]
       },
       "properties": {
@@ -837,8 +1650,11 @@
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********74",
-        "alamat": "MC6R+RGP, Unnamed Road, Laeya, Kec. Palangga, Kabupaten Konawe Selatan, Sulawesi Tenggara 93883 @-4.337902,122.441324",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "eng.anggahimawan@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/MbFKEqMf3mJMNmKy8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:04:28.755000"
       }
     },
     {
@@ -846,8 +1662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          106.4332935,
+          -2.2957359
         ]
       },
       "properties": {
@@ -857,8 +1673,11 @@
         "tahun_masuk_umy": 2015,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********37",
-        "alamat": "Pak @⁨M+M Fuel Man Bmc Adaro⁩ .. hari ini mohon dibantu pengisian fuel unit SSI Boom Lift BL-04 lokasi di area S16 Terima kasih",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "Studiografis77@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/X4A3aEugVujBpwZq8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:10:18.552000"
       }
     },
     {
@@ -866,8 +1685,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.6487389,
+          -1.3773444
         ]
       },
       "properties": {
@@ -877,8 +1696,11 @@
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********59",
-        "alamat": "Kalimantan Tengah",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "madsangadat@gmail.com",
+        "aktivitas_saat_ini": "Di perusahaan ",
+        "alamat_kerja_url": "https://maps.app.goo.gl/6zQLXtTvFr1LCX1MA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:11:19.501000"
       }
     },
     {
@@ -886,19 +1708,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Faiz Evan",
+        "instansi": "Adaro Indonesia",
+        "posisi": "Maintenance Engineer",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "09********37",
+        "email": "Studiografis77@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/X4u55ZE8yzMvkDKL9",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 20:13:42.435000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.519622,
+          -6.4972297
         ]
       },
       "properties": {
         "nama": "Mochamad Khalil Putra Prasetyo",
-        "instansi": "PT CIOMAS ADISATWA (JAPFA GROUP)",
+        "instansi": "PT. Ciomas Adisatwa (JAPFA Group)",
         "posisi": "Supervisor Technic",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********69",
-        "alamat": "Cilandak, Kec. Cibatu, Kabupaten Purwakarta, Jawa Barat 41182",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "khalilputraprasetyo@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/RTFM3HufnVDWQg4B9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:18:31.056000"
       }
     },
     {
@@ -906,8 +1754,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.4478,
-          0.5071
+          101.4355885,
+          0.4250508
         ]
       },
       "properties": {
@@ -917,8 +1765,11 @@
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********11",
-        "alamat": "Jl. Kaharudin Nasution. Pekanbaru",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "leomessiarizona@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/vCsksrHpLdfa9YGJ7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:21:24.439000"
       }
     },
     {
@@ -926,8 +1777,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.4024,
-          -7.7325
+          110.3669164,
+          -7.7632968
         ]
       },
       "properties": {
@@ -937,8 +1788,11 @@
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********68",
-        "alamat": "Jl Monjali No. 99 Gemawang, Sinduadi, Sleman, DIY",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "tiyanprakasa9@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/q75agjGh6S4wRpmw5",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:21:50.717000"
       }
     },
     {
@@ -946,19 +1800,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          112.22438,
+          -7.5105578
         ]
       },
       "properties": {
-        "nama": "DIMAS AR RASYID",
-        "instansi": "CV. WAHANA SEJAHTERA FOODS",
+        "nama": "Dimas Ar Rasyid",
+        "instansi": "CV. Wahana Sejahtera Foods",
         "posisi": "-",
         "tahun_masuk_umy": 2015,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********40",
-        "alamat": "Jl. Sumojoyo Prawiro No.132, Bulak, Mojokrapak, Kec. Tembelang, Kabupaten Jombang, Jawa Timur 61452",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "dimasarrasyid.dr@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha, Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/gnsEFVwYXGY6WXvE8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:22:00.133000"
       }
     },
     {
@@ -966,8 +1823,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad Iqbal Ridhani",
+        "instansi": "PT. PBM Lambang Jaya Barito",
+        "posisi": "Planner",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********77",
+        "email": "ball.ir12@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/LyepjjPwh6ELkePb9",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 20:22:57.741000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0163572,
+          1.1882179
         ]
       },
       "properties": {
@@ -977,8 +1857,11 @@
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********35",
-        "alamat": "Batu ampar",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "rezaagungbasuki17@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/dtFxCDLj93ukriJL8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:31:14.081000"
       }
     },
     {
@@ -986,19 +1869,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.1711,
-          -6.2678
+          107.1136441,
+          -6.3278203
         ]
       },
       "properties": {
         "nama": "Akhmad sutriawan",
-        "instansi": "Indonesia epson industry",
+        "instansi": "Indonesia Epson Industry",
         "posisi": "Staff",
         "tahun_masuk_umy": 2007,
         "tahun_lulus_umy": 2011,
         "no_wa": "08********98",
-        "alamat": "Cikarang selatan",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "Akh.sutriawan@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/6DRvGqSbG3RBnbJt7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:33:30.685000"
       }
     },
     {
@@ -1006,8 +1892,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          101.6655731,
+          0.1274276
         ]
       },
       "properties": {
@@ -1017,8 +1903,11 @@
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********00",
-        "alamat": "Desa Segati, Kecamatan Langgam, Kabupaten Pelalawan, Riau",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "andisupriyadi276@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/92h6nG861C4D7Qnw8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:33:59.970000"
       }
     },
     {
@@ -1026,8 +1915,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3336452,
+          -7.8031634
         ]
       },
       "properties": {
@@ -1037,8 +1926,11 @@
         "tahun_masuk_umy": 2007,
         "tahun_lulus_umy": 2011,
         "no_wa": "08********38",
-        "alamat": "Yogyakarta",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "m.ramadhan1089@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ycgAPhu1SmEpiHrj6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:34:29.045000"
       }
     },
     {
@@ -1046,8 +1938,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6191,
-          -6.9175
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "ARFISKA YUDA PRASTYA",
+        "instansi": "PT. Bayu Buana Gemilang (Kantor Area Barat)",
+        "posisi": "Staff Operation & Maintenance",
+        "tahun_masuk_umy": 2011,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********04",
+        "email": "arfiskayudaprastya@gmail.com",
+        "aktivitas_saat_ini": "Natural Gas",
+        "alamat_kerja_url": "https://maps.app.goo.gl/j6EAp9bPAZS8bLaS6",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 20:39:51.943000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Eko Widodo",
+        "instansi": "SMK Muhammadiyah 2 Tegal",
+        "posisi": "Kepala Program Keahlian Teknik Kendaraan Ringan",
+        "tahun_masuk_umy": 2008,
+        "tahun_lulus_umy": 2012,
+        "no_wa": "08*******46",
+        "email": "eko.widodo.tm@gmail.com",
+        "aktivitas_saat_ini": "Guru Produktif TKR",
+        "alamat_kerja_url": "https://maps.app.goo.gl/wQu6jvsaMYEtcqb69",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 20:43:23.296000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6018557,
+          -6.8677467
         ]
       },
       "properties": {
@@ -1057,8 +1995,11 @@
         "tahun_masuk_umy": 2011,
         "tahun_lulus_umy": 2015,
         "no_wa": "08********13",
-        "alamat": "Jl. Gatot Subroto No.170, Gumuruh, Kec. Batununggal, Kota Bandung, Jawa Barat 40275",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "hendricjimmy@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Balai Pelatihan",
+        "alamat_kerja_url": "https://maps.app.goo.gl/pTHrfUGZ8RH9GsDk7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:48:44.209000"
       }
     },
     {
@@ -1066,8 +2007,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Pramudya Tristianto",
+        "instansi": "PT. Indonesia Epson Industry",
+        "posisi": "Supervisor",
+        "tahun_masuk_umy": 2009,
+        "tahun_lulus_umy": 2014,
+        "no_wa": "08********62",
+        "email": "cinhosan@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/RD6cYK29qLgXwFKC6",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 20:49:15.211000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Bayu Bagaskoro",
+        "instansi": "PT. PLN (Persero) ",
+        "posisi": "Officer Kinerja",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08*******75",
+        "email": "bagaskoro.bayu@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/zsNV1V1FaQe4482V7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 20:50:20.379000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2233077,
+          -7.3602937
         ]
       },
       "properties": {
@@ -1077,8 +2064,11 @@
         "tahun_masuk_umy": 2015,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********83",
-        "alamat": "Beringin RT 10, Berangas, Alalak, Barito Kuala, Kalimantan Selatan",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "maruframadhani2201@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/EcnfzUnynRaQGD9x9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:52:39.821000"
       }
     },
     {
@@ -1086,19 +2076,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          108.1820185,
+          -6.3471793
         ]
       },
       "properties": {
         "nama": "Ade Yoga Pratama",
-        "instansi": "Dinas perumahan dan permukiman",
-        "posisi": "Ada",
+        "instansi": "Dinas Perumahan dan Permukiman",
+        "posisi": "Owner",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08*******92",
-        "alamat": "Indramayu",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "Adeyogapratama3@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/skHBytCc6TdsZuG99",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 20:55:24.056000"
       }
     },
     {
@@ -1106,19 +2099,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Yudha Prasetya Aditama ",
+        "instansi": "Indragiri Hulu, Riau/PT.Global Energi Lestari",
+        "posisi": "Safety ",
+        "tahun_masuk_umy": 2019,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08********78",
+        "email": "yudhaadtm26@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/8MQyL8tNULVpxVhK7?g_st=com.google.maps.preview.copy",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:00:45.199000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Anggit Dwi Prasetya",
+        "instansi": "Balai Pelatihan Vokasi dan Produktivitas Ambon",
+        "posisi": "Instruktur Ahli Pertama Kejuruan Otomotif ",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********93",
+        "email": "anggitdpras25@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Instansi Pemerintahan",
+        "alamat_kerja_url": "https://maps.app.goo.gl/YpwqAuKjkAZb1hDq9",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:01:56.622000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8660347,
+          1.7163571
         ]
       },
       "properties": {
         "nama": "Danu ",
-        "instansi": "KAMAHANA",
+        "instansi": "Kamahana",
         "posisi": "Corep",
         "tahun_masuk_umy": 2002,
         "tahun_lulus_umy": 2007,
         "no_wa": "08********14",
-        "alamat": "Rokan Hilir Riau",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "danuoktoriadi@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha, Kerja di Industri, Bercocok Tanam Kelapa Sawit",
+        "alamat_kerja_url": "https://maps.app.goo.gl/eW3eUnLQtFZsJ9jB8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 21:09:48.025000"
       }
     },
     {
@@ -1126,8 +2168,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "hidayatullahyaya73@gmail.com",
+        "instansi": "Chengtok Lithium Indonesia",
+        "posisi": "Crew",
+        "tahun_masuk_umy": 2019,
+        "tahun_lulus_umy": 2023,
+        "no_wa": "08********53",
+        "email": "hidayatullahyaya73@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ZUDjw4QeWTDCUfmP9?g_st=com.google.maps.preview.copy",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:11:03.374000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7166554,
+          -2.8513561
         ]
       },
       "properties": {
@@ -1137,8 +2202,11 @@
         "tahun_masuk_umy": 2019,
         "tahun_lulus_umy": 2023,
         "no_wa": "08*******53",
-        "alamat": "SMK NEGERI 1 KEEROM Arso 2 https://maps.app.goo.gl/uEUNdtWbTcvSZMQ7A",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "arifjpr1717@gmail.com",
+        "aktivitas_saat_ini": "Tendik",
+        "alamat_kerja_url": "https://maps.app.goo.gl/6bvCdH5CzoDCZvTC9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 21:12:32.648000"
       }
     },
     {
@@ -1146,19 +2214,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Faisal Lumbessy",
+        "instansi": "Pemerintah Provinsi Maluku Utara",
+        "posisi": "Staff",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********95",
+        "email": "flmbssy@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Pemerintahan",
+        "alamat_kerja_url": "https://maps.app.goo.gl/VcrBUUeXtYKwccT58?g_st=ac",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:12:57.566000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Eko Sulistyo",
+        "instansi": "PT. Telekomunikasi Seluler Indonesia",
+        "posisi": "Channel Account Manager",
+        "tahun_masuk_umy": 2003,
+        "tahun_lulus_umy": 2008,
+        "no_wa": "08********16",
+        "email": "sulistyoeko1728@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/i4QHUmy3LFe6oM9E8?g_st=atm",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:19:17.211000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8194887,
+          -8.8637976
         ]
       },
       "properties": {
         "nama": "Prasetyo",
-        "instansi": "PT. CATUR CAHAYA NIAGA MITRA",
+        "instansi": "PT. Catur Cahaya Niaga Mitra",
         "posisi": "Mechanical Engineer & Cost Engineer",
         "tahun_masuk_umy": 2015,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********14",
-        "alamat": "4RG6+XJ, Belo, Jereweh, West Sumbawa Regency, West Nusa Tenggara 84456",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "Frazprasetyo@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/WGt8UFm3p2ZLWmqW8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 21:22:15.140000"
       }
     },
     {
@@ -1166,19 +2283,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          105.0838001,
+          -4.6112407
         ]
       },
       "properties": {
-        "nama": "AGUNG TRIANA",
-        "instansi": "PT KOMERING JAYA PERDANA",
+        "nama": "Agung Triana",
+        "instansi": "PT. Komering Jaya Perdana",
         "posisi": "Supervisor procurement",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********27",
-        "alamat": "JL. LINTAS TIMUR DUSUN 02 RT. 005 RW. 002 DESA TERBANGGI ILIR, KEC. BANDAR MATARAM, KAB. LAMPUNG TENGAH, LAMPUNG – INDONESIA",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "Agungtriana0902@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/TEdFxVVXrhgCb2wbA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 21:27:17.950000"
       }
     },
     {
@@ -1186,19 +2306,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          114.4169601,
+          -0.9847046
         ]
       },
       "properties": {
         "nama": "Andri Purnomo",
-        "instansi": "PT Berkat Maritim Abadi",
+        "instansi": "PT. Berkat Maritim Abadi",
         "posisi": "Spv Maintenance Planner & Logistic",
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2021,
         "no_wa": "08********94",
-        "alamat": "Muara Teweh",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "andripurnomo506@gmail.com",
+        "aktivitas_saat_ini": "Kerja Ditambang",
+        "alamat_kerja_url": "https://maps.app.goo.gl/HMugnURft7fUNiDX6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 21:28:18.985000"
       }
     },
     {
@@ -1206,19 +2329,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          108.370766,
+          -6.3594856
         ]
       },
       "properties": {
-        "nama": "REZA ALI FIRDAUS",
-        "instansi": "SMKN 1 BALONGAN",
+        "nama": "Reza Ali Firdaus",
+        "instansi": "SMKN 1 Balongan",
         "posisi": "Guru Produktif Teknik Mekanik Industri",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********81",
-        "alamat": "Jl. Raya Sukaurip No 35 Balongan Indramayu jawa barar",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "rfirdaus912@gmail.com",
+        "aktivitas_saat_ini": "Guru",
+        "alamat_kerja_url": "https://maps.app.goo.gl/r8AjaxLvmphENNHp8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 21:33:39.257000"
       }
     },
     {
@@ -1226,8 +2352,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.806,
-          -6.5971
+          106.9284934,
+          -6.3910714
         ]
       },
       "properties": {
@@ -1237,8 +2363,11 @@
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********81",
-        "alamat": "Jl. Green Park Avenue No.6, Cikeas Udik, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16966",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "bagustria69@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/6BrmV7yev1xwUdJCA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 21:35:08.633000"
       }
     },
     {
@@ -1246,8 +2375,100 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Irsal Muhammad Haroz",
+        "instansi": "PT. Sinergi Properti Pratama",
+        "posisi": "Inspektor di PLN Pusertif Bali",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08********27",
+        "email": "irsalmhmd89@gmail.com",
+        "aktivitas_saat_ini": "Inspektor ",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Rq5sMtPzR2ZBvpaQ8?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:41:31.710000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Hendra Jaya",
+        "instansi": "PT. PLN",
+        "posisi": "Team Leader Condition Base Maintenance (TL CBM)",
+        "tahun_masuk_umy": 2010,
+        "tahun_lulus_umy": 2014,
+        "no_wa": "08********03",
+        "email": "hnr.jya@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/TdSF3t6tc5mB1zQx5",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:43:18.963000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Andika Bagus Nurcahya ",
+        "instansi": "Angkringan Kalibondol ",
+        "posisi": "Owner ",
+        "tahun_masuk_umy": 2016,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08********76",
+        "email": "nurcahyaandika933@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/cPAVSqKuewfza7iL7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:48:41.637000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Ridwan Santoso",
+        "instansi": "PT. Jasintek Karya Abadi",
+        "posisi": "Asisten Inspektur",
+        "tahun_masuk_umy": 2019,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08********48",
+        "email": "santosoridwan19@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/amqLZPT9F54Cf2XG7?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 21:51:24.519000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1413767,
+          1.3815515
         ]
       },
       "properties": {
@@ -1257,8 +2478,11 @@
         "tahun_masuk_umy": 2019,
         "tahun_lulus_umy": 2023,
         "no_wa": "08********87",
-        "alamat": "Berau, Kalimantan Timur",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "wisnuirdi27@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/BbpYKCiq4D7KGgrR6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 21:52:30.146000"
       }
     },
     {
@@ -1266,19 +2490,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.9756,
-          -6.2383
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Adang Mubarok Sidik, S.T",
+        "instansi": "UPTD BLK kabupaten Tasikmalaya",
+        "posisi": "Instruktur Ahli Pertama Kejuruan Otomotive",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08********96",
+        "email": "adangmubarok@gmail.com",
+        "aktivitas_saat_ini": "ASN",
+        "alamat_kerja_url": "https://maps.app.goo.gl/vewVjgWjKaT5gaMt7?g_st=ac",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:02:04.472000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Rahmat Ramadhan",
+        "instansi": "PT. Cipta Surya Manunggal Utama",
+        "posisi": "Senior Maintenanace Planner",
+        "tahun_masuk_umy": 2019,
+        "tahun_lulus_umy": 2023,
+        "no_wa": "08********30",
+        "email": "rahmatramadhanv@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/pkndbzcKKPGRHw7w7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:07:30.450000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Gemilang Trifa Perdana",
+        "instansi": "Sefas Group",
+        "posisi": "SALES ENGINEER",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********59",
+        "email": "gemilangtrifaperdana99@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/o6U8cvqPSHuFeW9n9?g_st=ac",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:12:53.005000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9784601,
+          -6.1968977
         ]
       },
       "properties": {
         "nama": "Irsyad Muhammad Sobri ",
-        "instansi": "PT Aneka Mitra Gemilang (WINGS GROUP)",
+        "instansi": "PT. Aneka Mitra Gemilang (WINGS GROUP)",
         "posisi": "Engineering Staff (Pengawas)",
         "tahun_masuk_umy": 2019,
         "tahun_lulus_umy": 2023,
         "no_wa": "08********12",
-        "alamat": "PT Aneka Mitra Gemilang, Jalan Kaliabang Bungur, RT.001/RW.024, Pejuang, Bekasi, West Java",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "irsyad.sobri04@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/f7phwb75LxWVoMMT8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:15:03.949000"
       }
     },
     {
@@ -1286,19 +2582,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.9756,
-          -6.2383
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Fauzan Anjarico",
+        "instansi": "PT. Indah Kiat Pulp & Paper",
+        "posisi": "Supervisor",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2022,
+        "no_wa": "08********84",
+        "email": "anjaricof@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://share.google/cEW2U9OiTzwTUO4Nu",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:16:29.148000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2091636,
+          -6.3904611
         ]
       },
       "properties": {
         "nama": "Revana Widyargo ",
-        "instansi": "PT Maxxis Internasional Indonesia ",
+        "instansi": "PT. Maxxis Internasional Indonesia ",
         "posisi": "Shift Leader ",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********83",
-        "alamat": "Greenland International Industrial Center (GIIC) Blok CG No.1, Kelurahan, Pasirranji, Kec. Cikarang Pusat, Kabupaten Bekasi, Jawa Barat 17530",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "revan.widya@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/rUyVMm4DDVri1Kgk8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:22:26.207000"
       }
     },
     {
@@ -1306,8 +2628,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          106.4107733,
+          -6.1783288
         ]
       },
       "properties": {
@@ -1317,8 +2639,11 @@
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2021,
         "no_wa": "08********12",
-        "alamat": "The Plaza Office Tower Lt. 39, Jalan M.H. Thamrin Kav. 28-30, Menteng, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "rizkynandaparely2@yahoo.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/NgXNvv9FRZkp9NJG7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:22:42.265000"
       }
     },
     {
@@ -1326,8 +2651,100 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Faiz Prakasa",
+        "instansi": "PT. Hasnur Citra Terpadu (member of Hasnur Group)",
+        "posisi": "Senior Assistant of Internal Audit",
+        "tahun_masuk_umy": 2016,
+        "tahun_lulus_umy": 2020,
+        "no_wa": "08********68",
+        "email": "faiz.prakasa17@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/9k79YdMcELoAEwAA9?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:23:16.268000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Sigit Hartanto",
+        "instansi": "PT. Nihon Seiki Indonesia",
+        "posisi": "Marketing Staff",
+        "tahun_masuk_umy": 2017,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08********32",
+        "email": "hartantosigit27@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://share.google/ZEE7RhcHacZvuaAlr",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:23:33.103000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Fajar Ramadhan",
+        "instansi": "PT. Kharisma Alam Persada 1 (Agrina Group)",
+        "posisi": "Asisten Traksi ",
+        "tahun_masuk_umy": 2016,
+        "tahun_lulus_umy": 2022,
+        "no_wa": "08********48",
+        "email": "fajarramad09@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/am2UBgHDWt5F7VTT6?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:25:07.194000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Ganthus Herprama Satya",
+        "instansi": "Besmindo Materi Sewatama",
+        "posisi": "Rig Clerk",
+        "tahun_masuk_umy": 2016,
+        "tahun_lulus_umy": 2023,
+        "no_wa": "08********62",
+        "email": "herpramaganthus@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/cRFEeqdtBj46YNuCA?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:28:10.030000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.1566587,
+          -7.3186045
         ]
       },
       "properties": {
@@ -1337,8 +2754,11 @@
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********57",
-        "alamat": "Temanggung",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "hardiyantolian@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/WDgNxCU5JpnYPWTJ6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:28:26.200000"
       }
     },
     {
@@ -1346,8 +2766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          112.0192974,
+          -7.0627815
         ]
       },
       "properties": {
@@ -1357,8 +2777,11 @@
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2020,
         "no_wa": "08********65",
-        "alamat": "Dsn Boro Rt 003 Rw 005 Desa Banjararum, Rengel Tuban",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "arrifok@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ip8n7LRhfsqN3UbX8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:29:53.858000"
       }
     },
     {
@@ -1366,8 +2789,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          104.4433976,
+          0.9171476
         ]
       },
       "properties": {
@@ -1377,8 +2800,11 @@
         "tahun_masuk_umy": 2004,
         "tahun_lulus_umy": 2010,
         "no_wa": "08********97",
-        "alamat": "Tanjungpinang Kepulauan Riau",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "indaharusena02@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/J859xGE9A1kCexTy8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:31:14.366000"
       }
     },
     {
@@ -1386,19 +2812,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          108.246675,
+          -0.0310902
         ]
       },
       "properties": {
         "nama": "Yogi Purnomo Ji",
-        "instansi": "PT. Harapan Sawit Lestari ( cargill) ",
+        "instansi": "PT. Harapan Sawit Lestari (Cargill) ",
         "posisi": "Supervisor production",
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2020,
         "no_wa": "08********98",
-        "alamat": "Manismata, kalimantan Barat",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "Yogipurnomoaji@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/t2tWLAxbPwaLTbQP9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:33:48.825000"
       }
     },
     {
@@ -1406,19 +2835,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.9756,
-          -6.2383
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Lukman Hakim ",
+        "instansi": "Green Earth",
+        "posisi": "Staff",
+        "tahun_masuk_umy": 2020,
+        "tahun_lulus_umy": 2025,
+        "no_wa": "08********22",
+        "email": "lukmanhaakkim@gmail.com",
+        "aktivitas_saat_ini": "GIS Surveyor ",
+        "alamat_kerja_url": "https://maps.app.goo.gl/KZXcFdhyM5TEvyQAA",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-26 22:37:02.565000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2142531,
+          -6.3872192
         ]
       },
       "properties": {
         "nama": "Yudha Yanuar Pamungkas",
-        "instansi": "PT Mitsubishi Motors Krama Yudha Indonesia",
+        "instansi": "PT. Mitsubishi Motors Krama Yudha Indonesia",
         "posisi": "Packaging Engineer",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********17",
-        "alamat": "Kawasan Greenland International Industrial Center(GIIC), Blok CH No.1 & 2 Kota Deltamas, Desa, Pasirranji, Kec. Cikarang Pusat, Kabupaten Bekasi, Jawa Barat 17530",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "yudhayanuar019@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/xaJfkj7pndD1SGYg9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:43:16.026000"
       }
     },
     {
@@ -1426,19 +2881,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          106.7594464,
+          -6.1977604
         ]
       },
       "properties": {
         "nama": "Ajib Setiyawan ",
-        "instansi": "PT.Pratama Solusi Armindo",
+        "instansi": "PT. Pratama Solusi Armindo",
         "posisi": "Drafter",
         "tahun_masuk_umy": 2017,
         "tahun_lulus_umy": 2023,
         "no_wa": "08********88",
-        "alamat": "Ibukota nusantara",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "ajibsetiawan9@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/HM9uESAgbQ2RTdmz5",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:46:01.598000"
       }
     },
     {
@@ -1446,19 +2904,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          106.8004421,
+          -6.2411217
         ]
       },
       "properties": {
         "nama": "Fahrurossi Yogadiputra",
-        "instansi": "PT Wargi Santosa",
+        "instansi": "PT. Wargi Santosa",
         "posisi": "Coordinator plant planning & controlling",
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2021,
         "no_wa": "08********09",
-        "alamat": "BLOK M Jaksel",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "fahrur.17putra@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/aT576pFr1i4jPbTP7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:50:22.631000"
       }
     },
     {
@@ -1466,8 +2927,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.4167,
-          -6.9667
+          110.4056851,
+          -6.9961418
         ]
       },
       "properties": {
@@ -1477,8 +2938,11 @@
         "tahun_masuk_umy": 2001,
         "tahun_lulus_umy": 2007,
         "no_wa": "08*******20",
-        "alamat": "Jl. Pemuda no.148 Semarang",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "sandykasema1982@gmail.com",
+        "aktivitas_saat_ini": "PNS ",
+        "alamat_kerja_url": "https://maps.app.goo.gl/1nN9qh1VBMF5No7r5",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:52:02.140000"
       }
     },
     {
@@ -1486,19 +2950,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          109.3323978,
+          -6.9189815
         ]
       },
       "properties": {
         "nama": "Fachrul Akbar Tabrani",
-        "instansi": "PT GENIO TEKNIK SOLUTIONS",
+        "instansi": "PT. Genio Teknik Solutions",
         "posisi": "Product Design Engineer",
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2020,
         "no_wa": "08********21",
-        "alamat": "-",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "fachrulakbar21@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha, Kerja di Industri, Kuliah Magister",
+        "alamat_kerja_url": "https://maps.app.goo.gl/kVHbLYs1bVnEhLyT8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 22:54:42.036000"
       }
     },
     {
@@ -1506,19 +2973,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.63,
-          -6.1781
+          106.5020303,
+          -6.2330197
         ]
       },
       "properties": {
         "nama": "Muhammad Baihaqi",
-        "instansi": "PT Detech Profesional Indonesia",
+        "instansi": "PT. Detech Profesional Indonesia",
         "posisi": "Analys dan Operator Pengujian",
         "tahun_masuk_umy": 2019,
         "tahun_lulus_umy": 2024,
         "no_wa": "08*******08",
-        "alamat": "Bizpoint Modern Multi Business, Point 1, Jl. Guangzhou No.10, Sukamulya, Kec. Cikupa, Kabupaten Tangerang, Banten 15710",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "baihaqimbaiq21@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/BnuRUKPyFpWPMLLa9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 23:01:38.010000"
       }
     },
     {
@@ -1526,19 +2996,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          109.3651886,
+          -7.4046998
+        ]
+      },
+      "properties": {
+        "nama": "Reza Pratama Putra",
+        "instansi": "Surya Mataram Sakti (SMS)",
+        "posisi": "HSE",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08********00",
+        "email": "rezapratamaputra868@gmail.com",
+        "aktivitas_saat_ini": "Konstruksi",
+        "alamat_kerja_url": "https://maps.app.goo.gl/jJgexhgX4hmbtHT67",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 23:34:01.772000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.226326,
+          -0.6907107
+        ]
+      },
+      "properties": {
+        "nama": "Rahma catur febianto",
+        "instansi": "PT. Putra Ramli",
+        "posisi": "Lead mechanical piping & engineer",
+        "tahun_masuk_umy": 2016,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08********25",
+        "email": "Rahmacatur128@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/QayVKP3JSGcx9Rm38?g_st=ac",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-26 23:50:11.829000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8257064,
+          -6.2252922
         ]
       },
       "properties": {
         "nama": "Lutfi Khoirul Miftakhul Ni'am",
-        "instansi": "PT Darma Henwa",
+        "instansi": "PT. Darma Henwa",
         "posisi": "Analyst Asset Management ",
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********07",
-        "alamat": "Bakrie Tower, Jl. Epicentrum Utama Raya No.2 23rd Floor, RT.2/RW.5, Karet Kuningan, Kecamatan Setiabudi, Jakarta, Daerah Khusus Ibukota Jakarta 12940",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "lutfikhoirul22@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/5ieSEAg82qtvM5UY7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 00:02:00.434000"
       }
     },
     {
@@ -1546,8 +3065,123 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Paramayudha Elang Narhessa",
+        "instansi": "PT. Shopee Internasional Indonesia",
+        "posisi": "Mitra",
+        "tahun_masuk_umy": 2017,
+        "tahun_lulus_umy": 2022,
+        "no_wa": "08********39",
+        "email": "paramayudhaelang03@gmail.com",
+        "aktivitas_saat_ini": "Driver online",
+        "alamat_kerja_url": "https://maps.app.goo.gl/hCtD3a19ghhBYXoQ9?g_st=ac",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 00:13:51.855000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Ardianta setiawan",
+        "instansi": "CV. Lasa Agung Mandiri",
+        "posisi": "Pemilik",
+        "tahun_masuk_umy": 2006,
+        "tahun_lulus_umy": 2014,
+        "no_wa": "08********10",
+        "email": "ardianta.setiawan@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/GBZhA3rESXH5JCX89?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 00:20:07.496000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad Aidil",
+        "instansi": "PT. Nutrifood Indonesia",
+        "posisi": "Utility Engineer",
+        "tahun_masuk_umy": 2019,
+        "tahun_lulus_umy": 2024,
+        "no_wa": "08********88",
+        "email": "maidil734@gmail.con",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/yKj26tCc1WUofNtb8?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 00:52:57.304000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Jinut Muhlitanto",
+        "instansi": "PT. Arkananta Apta Pratista",
+        "posisi": "Kepala Bagian Maintenance",
+        "tahun_masuk_umy": 2003,
+        "tahun_lulus_umy": 2008,
+        "no_wa": "08********58",
+        "email": "jinut.mm@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/W9EZTuvQwhc2wbdf9?g_st=com.google.maps.preview.copy",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 01:05:28.014000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Pungky Wijanarko Prasetyo Wicaksono",
+        "instansi": "PT. Angkasa Pura Indonesia",
+        "posisi": "Airport Security Supervisor",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********07",
+        "email": "pungky.wijanarko.14.pw@gmail.com",
+        "aktivitas_saat_ini": "BUMN",
+        "alamat_kerja_url": "https://maps.app.goo.gl/2yQMvA5T1mAaryKZA",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 04:35:11.631000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2556135,
+          -7.8767481
         ]
       },
       "properties": {
@@ -1557,8 +3191,11 @@
         "tahun_masuk_umy": 2018,
         "tahun_lulus_umy": 2022,
         "no_wa": "08********02",
-        "alamat": "Klodran, Jl. Pemuda, Kadirojo, Jonggrangan, Kec. Bantul, Daerah Istimewa Yogyakarta 55711",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "Achmaddwitn@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/57AtY1mJ8BDP5L1h8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 04:41:07.003000"
       }
     },
     {
@@ -1566,19 +3203,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.0305,
-          1.0456
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Arista Anggariawan",
+        "instansi": "SMK Ma'arif  NU 1 Bener ",
+        "posisi": "Wakil kepala bidang hubinmas",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08********01",
+        "email": "aristaanggariawan46@gmail.com",
+        "aktivitas_saat_ini": "Guru",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Xae3f2DtHwVByWrYA",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 05:58:51.527000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Tri Andi Nugroho",
+        "instansi": "Micron Technology",
+        "posisi": "Process Engineer",
+        "tahun_masuk_umy": 2016,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08********95",
+        "email": "triandi987@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ay5yE6aXEcxDrghT7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 06:03:12.225000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0331321,
+          1.0625671
         ]
       },
       "properties": {
         "nama": "Elfan gumilang",
-        "instansi": "PT CIBA VISION BATAM",
+        "instansi": "PT. Ciba Vision Batam",
         "posisi": "Teknisi",
         "tahun_masuk_umy": 2007,
         "tahun_lulus_umy": 2012,
         "no_wa": "08********28",
-        "alamat": "BATAM",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "Elfangumilang@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/B7ECd1bajFnfQS4U7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 06:11:25.626000"
       }
     },
     {
@@ -1586,8 +3272,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          106.0507885,
+          -5.3677719
         ]
       },
       "properties": {
@@ -1597,8 +3283,11 @@
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2022,
         "no_wa": "08********26",
-        "alamat": "Ingasrejo, Plesungan, Kec. Gondangrejo, Kabupaten Karanganyar, Jawa Tengah 57181",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "trmahendra38@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/XycKvhksSDs6i4Xs7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 06:18:10.758000"
       }
     },
     {
@@ -1606,19 +3295,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          111.3609259,
+          -7.5402076
         ]
       },
       "properties": {
         "nama": "Ryan Naufal Wicaksono ",
-        "instansi": "Nusa benggala",
+        "instansi": "Nusa Benggala",
         "posisi": "Owner ",
         "tahun_masuk_umy": 2019,
         "tahun_lulus_umy": 2024,
         "no_wa": "08********04",
-        "alamat": "MANGKUJAYAN, RT04/RW01, DS.WIDODAREN, KEC.GERIH, KAB.NGAWI",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "ryannaufalwicaksono@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/WVivdNgx5cPvh2dG9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 06:34:43.795000"
       }
     },
     {
@@ -1626,8 +3318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          103.182472,
+          -2.8192571
         ]
       },
       "properties": {
@@ -1637,8 +3329,11 @@
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********81",
-        "alamat": "55JP+72V Pelita Jaya, Kabupaten Musi Rawas, Sumatera Selatan",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "rahayususanto393@gmail.com",
+        "aktivitas_saat_ini": "Berkebun",
+        "alamat_kerja_url": "https://maps.app.goo.gl/EA1gwmbpLEYoC4d56",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 06:48:39.819000"
       }
     },
     {
@@ -1646,19 +3341,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.546002,
+          -6.9127204
         ]
       },
       "properties": {
         "nama": "Pegi Permana",
-        "instansi": "PT Donlim Teknologi Indonesia",
+        "instansi": "PT. Donlim Teknologi Indonesia",
         "posisi": "Produksi Leader",
         "tahun_masuk_umy": 2022,
         "tahun_lulus_umy": 2024,
         "no_wa": "08********35",
-        "alamat": "3GPX+WC4, Batu, Kec. Karangtengah, Kabupaten Demak, Jawa Tengah",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "pegipermana67@gmail.con",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/s8JdKKxRoc8XVFxG6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 07:01:47.277000"
       }
     },
     {
@@ -1666,19 +3364,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          111.1708698,
+          -6.832833
         ]
       },
       "properties": {
         "nama": "Ahmad Thoyib",
-        "instansi": "SMK",
+        "instansi": "SMK Puncakwangi",
         "posisi": "Guru",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********73",
-        "alamat": "Pucakwangi",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "ahmadthoyib.st@gmail.com",
+        "aktivitas_saat_ini": "Kerjadi sekolah",
+        "alamat_kerja_url": "https://maps.app.goo.gl/H8XvYrhHKh9Ppdvb8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 07:53:24.830000"
       }
     },
     {
@@ -1686,19 +3387,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.9756,
-          -6.2383
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Hima Ganesha Waskita",
+        "instansi": "PT. Selamat Sempurna, Tbk",
+        "posisi": "Staff",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********37",
+        "email": "Himagw@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ynpzJE6fKg1gWVP2A",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 07:56:01.662000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1727052,
+          -6.3579462
         ]
       },
       "properties": {
         "nama": "Ahmad Ghifari Ibnu Siwi ",
-        "instansi": "Pt. Sejong summit indonesia",
+        "instansi": "PT. Sejong Summit indonesia",
         "posisi": "Section head ppic & production",
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********00",
-        "alamat": "Kawasan Delta silikon. Cikarang, bekasi",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "agisbimbim10@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/6ZQwsqFav2NbEZGD9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 08:00:34.059000"
       }
     },
     {
@@ -1706,19 +3433,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          106.9122287,
+          -6.1964911
         ]
       },
       "properties": {
         "nama": "Robby Priyanto",
-        "instansi": "PT ALIA DIGITAL PRINTEX",
+        "instansi": "PT. Alia Digital Printex",
         "posisi": "STAFF PPIC",
         "tahun_masuk_umy": 2016,
         "tahun_lulus_umy": 2020,
         "no_wa": "08********35",
-        "alamat": "Kawasan Pulogadung, Jakarta Timur",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "robby.priyanto23@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/PkJdNFAa6f5uDEsy7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 08:02:27.590000"
       }
     },
     {
@@ -1726,8 +3456,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          110.2564301,
+          -7.8137596
+        ]
+      },
+      "properties": {
+        "nama": "Fauzi Ahmad Tauhid",
+        "instansi": "PT. Aneka Dharma Persada",
+        "posisi": "Maintenance Planner",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********63",
+        "email": "fauziahmadt11@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/bfRVpYD5eHKgssvh8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 08:03:40.363000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1364422,
+          -6.3603566
+        ]
+      },
+      "properties": {
+        "nama": "Faizal Bagus Adi Nugraha",
+        "instansi": "PT. Dharma Kyungshin Indonesia",
+        "posisi": "Warehouse and Logistic Spv",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********02",
+        "email": "faizalbagus09@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/pDn9XrK3T61UiHY76",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 08:13:09.968000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Fajar Nur Fadilah",
+        "instansi": "FPT Software",
+        "posisi": "Senior Software Developer",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "+6**********80",
+        "email": "Fajarnf20@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/cuRANy7QDMC7mK7F7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 08:47:07.686000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8431551,
+          -6.2592213
         ]
       },
       "properties": {
@@ -1737,8 +3536,11 @@
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********89",
-        "alamat": "Jl. Kalibata Timur I No.36, Kalibata, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12740",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "fahmiharis45@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/os6CmBA5ogBLgyGu7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 09:18:36.586000"
       }
     },
     {
@@ -1746,19 +3548,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Aria Yudha Nur Rizky ",
+        "instansi": "BPBD Kab. Barito Utara",
+        "posisi": "TEKNISI SARANA DAN PRASARANA ",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2023,
+        "no_wa": "08********59",
+        "email": "ariayudha1015@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Instansi Pemerintah ",
+        "alamat_kerja_url": "https://maps.app.goo.gl/tpmN6Dy6LiQr4cwz7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 09:23:30.979000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6500368,
+          -6.6067041
         ]
       },
       "properties": {
         "nama": "Moh Nala Choiron Permadani",
-        "instansi": "PT Kertas Energi Mulia",
+        "instansi": "PT. Kertas Energi Mulia",
         "posisi": "Asisten Manager Produksi",
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2017,
         "no_wa": "08********38",
-        "alamat": "Potroyudan, Jepara, Jawa Tengah",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "dani.nala29@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/iveRWk7MmbSZQBkw6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 09:33:57.134000"
       }
     },
     {
@@ -1766,19 +3594,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.0305,
-          1.0456
+          104.1203526,
+          1.142104
         ]
       },
       "properties": {
         "nama": "Roy Yolanda Saputra",
-        "instansi": "PT . Batam Aero Technic",
+        "instansi": "PT. Batam Aero Technic",
         "posisi": "Staff Technical Record",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********06",
-        "alamat": "Kawasan Bandar Udara Hang Nadim Batam",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "royyolanda96@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/mtw1TBvMeGMm9iLP6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 09:56:53.630000"
       }
     },
     {
@@ -1786,19 +3617,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.4305896,
+          -7.7004382
+        ]
+      },
+      "properties": {
+        "nama": "Ikhsanudin Aldian",
+        "instansi": "PT. Faika Sarana Mulia",
+        "posisi": "Staff Marketing dan Operasional",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2023,
+        "no_wa": "08********54",
+        "email": "ikhsanu224@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/xcexcvV3MS3rNjnG6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 10:15:09.034000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5480823,
+          -7.9477566
         ]
       },
       "properties": {
         "nama": "Rofik Heriyadi",
-        "instansi": "SMK MUHAMMADIYAH 1 PLAYEN",
+        "instansi": "SMK Muhammadiyah 1 Playen",
         "posisi": "Guru Teknik Pemesinan",
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********14",
-        "alamat": "Smk muhammadiyah 1 playen",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "rofikheriyadi94@gmail.com",
+        "aktivitas_saat_ini": "Guru Teknik Pemesinan",
+        "alamat_kerja_url": "https://maps.app.goo.gl/DyjRDAX1g8iuSSjB7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 10:15:42.020000"
       }
     },
     {
@@ -1806,8 +3663,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8272,
-          -6.1754
+          106.8216218,
+          -6.1764648
         ]
       },
       "properties": {
@@ -1817,8 +3674,11 @@
         "tahun_masuk_umy": 2013,
         "tahun_lulus_umy": 2018,
         "no_wa": "08********33",
-        "alamat": "Jl. Medan Merdeka Sel. No.13, RT.11/RW.2, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "ardinista@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/sBTPw6tjDpYghjKe9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 10:15:49.851000"
       }
     },
     {
@@ -1826,19 +3686,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Hari Pangestu",
+        "instansi": "PT. Tirta Cahaya Enim",
+        "posisi": "K3 Pertambangan",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********59",
+        "email": "pangestuhari06@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/nQ2bCoPAWRK3cNV17",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 10:18:28.402000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Iman Kurnia Sentosa",
+        "instansi": "Kira Corporation",
+        "posisi": "Mechanical Design Engineer",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "+8*************63",
+        "email": "sentosaimankurnia@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/3GeBbpZHp6DjPvSe7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 10:33:24.830000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Sholeh Wahyu Pribadi",
+        "instansi": "Kalurahan Balecatur",
+        "posisi": "Dukuh ",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********94",
+        "email": "s.wahyu.p@gmail.com",
+        "aktivitas_saat_ini": "Perangkat Desa",
+        "alamat_kerja_url": "https://maps.app.goo.gl/3TdZ99RRPqEgorx79",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 10:57:32.481000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34899,
+          -7.7021162
         ]
       },
       "properties": {
         "nama": "Hidayatulloh Eko Nugroho ",
-        "instansi": "PT supratik suryamas ",
+        "instansi": "PT. Supratik Suryamas ",
         "posisi": "Setter mekanik mesin injection",
         "tahun_masuk_umy": 2007,
         "tahun_lulus_umy": 2012,
         "no_wa": "08********58",
-        "alamat": "PT Supratik Suryamas, JL. Salak, Desa, Jl. Magelang No.km 12, Durenan, Tridadi, Daerah Istimewa Yogyakarta 55511",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "hidayatulloh071289@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/8vXoRQ9tn9KeDGSZ9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 11:02:41.522000"
       }
     },
     {
@@ -1846,8 +3778,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3857651,
+          -7.7859756
         ]
       },
       "properties": {
@@ -1857,8 +3789,11 @@
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2015,
         "no_wa": "08********04",
-        "alamat": "Jl. Kalisahak No.28, Klitren, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55222",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "hariyantosatriawan@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Universitas",
+        "alamat_kerja_url": "https://maps.app.goo.gl/pMg7SJaz5gtb4T6m6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 11:06:57.187000"
       }
     },
     {
@@ -1866,8 +3801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          110.3834495,
+          -7.7840013
         ]
       },
       "properties": {
@@ -1877,8 +3812,11 @@
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********03",
-        "alamat": "Jl. LPP no 1A klitren",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "martinandre654321@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Universitas",
+        "alamat_kerja_url": "https://maps.app.goo.gl/UXyQnGpzqSZo8rWD7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 11:25:29.298000"
       }
     },
     {
@@ -1886,19 +3824,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3705,
-          -7.7972
+          114.9124348,
+          -2.8761778
         ]
       },
       "properties": {
         "nama": "Panji Prihandoko",
-        "instansi": "PT KHARISMA ALAM PERSADA, ASP GROUP",
+        "instansi": "PT. Kharisma Alam Persada, ASP Group",
         "posisi": "Manager",
         "tahun_masuk_umy": 2012,
         "tahun_lulus_umy": 2016,
         "no_wa": "08********83",
-        "alamat": "Kec. Candi Laras Selatan, Kab. Tapin, Kalimantan Selatan",
-        "sumber_koordinat": "Manual (default Yogyakarta)"
+        "email": "prihandokopanji@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/LfS7XnzUz1Posz1K6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 11:55:37.181000"
       }
     },
     {
@@ -1906,19 +3847,643 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.4167,
-          -6.9667
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Restu Andri Yanto ",
+        "instansi": "PT. Pertamina (Persero)",
+        "posisi": "Staff",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********67",
+        "email": "resturay1993@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/ubff1dDDUmKd24rL7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 12:06:10.507000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1554183,
+          -6.770223
         ]
       },
       "properties": {
         "nama": "Krisna Rinaldi Widiasta",
-        "instansi": "PT SANTOS JAYA ABADI ",
+        "instansi": "PT. Santos Jaya Abadi",
         "posisi": "SUPERVISOR MAINTENANCE",
         "tahun_masuk_umy": 2014,
         "tahun_lulus_umy": 2019,
         "no_wa": "08********27",
-        "alamat": "X9M3+94H, Jl. Kw. Industri Candi Tahap V, Ngaliyan, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50211",
-        "sumber_koordinat": "Manual (estimasi)"
+        "email": "mxaldy137@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/b8iDg7Tc6y4WCvCP6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 13:33:18.396000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.32137089999999,
+          5.5572922
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad abrar",
+        "instansi": "PT. Atjeh Multi Tech",
+        "posisi": "Direktur",
+        "tahun_masuk_umy": 2003,
+        "tahun_lulus_umy": 2011,
+        "no_wa": "08********68",
+        "email": "abrar.atjeh@gmail.com ",
+        "aktivitas_saat_ini": "Pengadaan barang jasa",
+        "alamat_kerja_url": "https://maps.app.goo.gl/G3bTVVqBEHJnxvE46",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 14:00:38.658000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.32137089999999,
+          5.5572922
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad abrar",
+        "instansi": "PT. Atjeh Multi Tech",
+        "posisi": "Direktur",
+        "tahun_masuk_umy": 2003,
+        "tahun_lulus_umy": 2011,
+        "no_wa": "08********68",
+        "email": "abrar.atjeh@gmail.com",
+        "aktivitas_saat_ini": "Pengadaan barang dan jasa",
+        "alamat_kerja_url": "https://maps.app.goo.gl/G3bTVVqBEHJnxvE46",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 14:01:56.380000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Yosa wahyu saputra",
+        "instansi": "PT. Pertamina Hulu Kalimantan Timur",
+        "posisi": "Receiving Material Man",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2016,
+        "no_wa": "08********91",
+        "email": "yosa.wahyu.saputra@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/5H79cVrHRmAyMZcb6?g_st=ipc",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 14:50:22.150000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Yankeisna Shopi",
+        "instansi": "Bakmi GM of Djarum Group",
+        "posisi": "Engineering Supervisor ",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08********65",
+        "email": "Yankeisnasopi@gmail.com",
+        "aktivitas_saat_ini": "Kerja di perusahaan swasta",
+        "alamat_kerja_url": "https://maps.app.goo.gl/kiy6DqtYMn1emhN57",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 15:20:38.906000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8877255,
+          -6.2848004
+        ]
+      },
+      "properties": {
+        "nama": "Nursidik ",
+        "instansi": "Toko Yakussa",
+        "posisi": "Owner ",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08********64",
+        "email": "nursidik04071993@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/X76P8rbcJWYVeEG67",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 16:01:51.979000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Yoganis Al Ayubi",
+        "instansi": "PT.Ganda Alam Makmur",
+        "posisi": "Safety Patrol",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********63",
+        "email": "yoganis.alayubi@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/f2nSzRnZSauUc3Pz8",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-27 17:49:39.922000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5815879,
+          -7.0214182
+        ]
+      },
+      "properties": {
+        "nama": "Taufik Fadilah ",
+        "instansi": "SMK Muhammadiyah Kajen - Pekalongan ",
+        "posisi": "Kepala Kompetensi Keahlian Teknik Sepeda Motor (KaKom TSM)",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********77",
+        "email": "taufikfadilahh@gmail.com",
+        "aktivitas_saat_ini": "Guru",
+        "alamat_kerja_url": "https://maps.app.goo.gl/fdEv4mH4EmM2rTGs8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-27 20:28:39.864000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1384203,
+          -6.1106105
+        ]
+      },
+      "properties": {
+        "nama": "Eko Yugo Widodo ",
+        "instansi": "Freelance",
+        "posisi": "Freelance",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********87",
+        "email": "ekoyugo3@gmail.com",
+        "aktivitas_saat_ini": "Freelance",
+        "alamat_kerja_url": "https://maps.app.goo.gl/w29rZnmE6jgR5UKp8",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-28 07:04:36.980000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.102406,
+          -4.1076179999999995
+        ]
+      },
+      "properties": {
+        "nama": "Frenky Hendrawan",
+        "instansi": "PT. Freeport ",
+        "posisi": "Field Eng",
+        "tahun_masuk_umy": 2002,
+        "tahun_lulus_umy": 2006,
+        "no_wa": "08********04",
+        "email": "fhendraw20@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/TXuH4RoTTBChbJRZ9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-28 07:47:56.619000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.0083726,
+          -7.6929404
+        ]
+      },
+      "properties": {
+        "nama": "Galih Sunu Nugroho",
+        "instansi": "Perumdam Tirta Wijaya Kabupaten Cilacap",
+        "posisi": "Staf Pemeliharaan Peralatan Teknik",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********49",
+        "email": "galihsunu.13@gmail.com",
+        "aktivitas_saat_ini": "Bekerja di BUMD",
+        "alamat_kerja_url": "https://maps.app.goo.gl/V4sfgt47ocTRsgJM6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-28 09:01:49.500000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Nunu Anahdi",
+        "instansi": "PT. Ceria Belajar Edukasi Indonesia",
+        "posisi": "Course consultant",
+        "tahun_masuk_umy": 2012,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08********11",
+        "email": "nunuanahdi55@gmail.com",
+        "aktivitas_saat_ini": "Lembaga kursus",
+        "alamat_kerja_url": "https://share.google/rd3TFn9kUutTL4avo",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-28 15:02:51.935000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9073015,
+          -6.2056199
+        ]
+      },
+      "properties": {
+        "nama": "David Wahyudi",
+        "instansi": "Global Onkolab Farma (A Kalbe Company) ",
+        "posisi": "Engineering Supervisor",
+        "tahun_masuk_umy": 2017,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08*********50",
+        "email": "davidwahyudi733@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/1AVEXCMsrgfwLjzL9",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-28 16:22:12.172000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Irvan Nur Huda",
+        "instansi": "Intan Pariwara",
+        "posisi": "Branch Manager",
+        "tahun_masuk_umy": 2011,
+        "tahun_lulus_umy": 2015,
+        "no_wa": "08********71",
+        "email": "Irvan_nurhuda@ymail.com",
+        "aktivitas_saat_ini": "Karyawan Swasta",
+        "alamat_kerja_url": "https://maps.app.goo.gl/yznoAMEXpfxoFtLJA",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-08-28 17:51:22.251000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1088533,
+          -0.5207808
+        ]
+      },
+      "properties": {
+        "nama": "Ghoza Azzafari",
+        "instansi": "PT. Titian Trans Energy",
+        "posisi": "HSE",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08********34",
+        "email": "ghozaazzafari15@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Mpgr32imWdmUWgMP7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-28 20:58:53.954000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6444941,
+          -2.0762178
+        ]
+      },
+      "properties": {
+        "nama": "Okto Aulia Dear Susanto",
+        "instansi": "PT Sawindo Kencana",
+        "posisi": "Staff - Asisten Proses",
+        "tahun_masuk_umy": 2017,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08********14",
+        "email": "susantodear@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/Uwx53WsLyUZx9w8k6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-08-28 22:36:09.245000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Parama Aji Darmawan",
+        "instansi": "Kebab Turkiyem, snack",
+        "posisi": "Owner",
+        "tahun_masuk_umy": 2015,
+        "tahun_lulus_umy": 2019,
+        "no_wa": "08******16",
+        "email": "Paramagood@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/rd8VXFdCryMfrrAfA",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-09-01 06:51:00.856000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Muhamad Fachri Al Fudholi",
+        "instansi": "PT. Kwong Fai Manufactory Batam ",
+        "posisi": "Molding Engineer",
+        "tahun_masuk_umy": 2016,
+        "tahun_lulus_umy": 2022,
+        "no_wa": "08********53",
+        "email": "muhamadfachrialfudholi@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/pq6Jt11pLVuNYgk56?g_st=ac",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-09-01 08:03:33.707000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1310241,
+          0.3675225
+        ]
+      },
+      "properties": {
+        "nama": "Faisal Fajri Ibnu Dianda",
+        "instansi": "PT. Cakrawala Langit Sejahtera",
+        "posisi": "Junior Planner",
+        "tahun_masuk_umy": 2019,
+        "tahun_lulus_umy": 2025,
+        "no_wa": "08********77",
+        "email": "faisalfajri38@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/LFJsGKVrqgLFu52eA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-09-02 09:59:00.653000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5593023,
+          -3.9435549
+        ]
+      },
+      "properties": {
+        "nama": "Ulil Amri",
+        "instansi": "Pemda",
+        "posisi": "Kepala desa",
+        "tahun_masuk_umy": 2009,
+        "tahun_lulus_umy": 2014,
+        "no_wa": "08********99",
+        "email": "ulilamryst@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/MfQ5zWE37PASHEqEA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-09-02 23:07:00.266000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3631942,
+          -7.8144325
+        ]
+      },
+      "properties": {
+        "nama": "Muhammad Arif Darmawan",
+        "instansi": "Mandiri Utama Finance",
+        "posisi": "Marketing Assosiate",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2020,
+        "no_wa": "08********91",
+        "email": "muhammad.arifdarmawn@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/pAjMJgwhuypjw6i99",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-09-04 15:33:17.613000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Destik Kurniawan ",
+        "instansi": "PT. Keramika Indonesia Asossiasi Tbk.",
+        "posisi": "Production Engineer Supervisor ",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08*********07",
+        "email": "destik.95@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/s65zVVMNp5iYdUbj7",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-09-04 16:08:43.702000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      },
+      "properties": {
+        "nama": "Juliansyah",
+        "instansi": "PLN Indonesia Power Services",
+        "posisi": "Plant Engineer ",
+        "tahun_masuk_umy": 2013,
+        "tahun_lulus_umy": 2017,
+        "no_wa": "08********97",
+        "email": "mr.juliansyah97@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/9qCjooDMHP4JrV3f8",
+        "sumber_koordinat": "Default (needs manual update)",
+        "timestamp": "2025-09-04 18:41:38.142000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.3841126,
+          -6.3756176
+        ]
+      },
+      "properties": {
+        "nama": "Fauzi fachriza",
+        "instansi": "PT. Kilang Pertamina Internasional",
+        "posisi": "Mechanical Construction Engineer",
+        "tahun_masuk_umy": 2018,
+        "tahun_lulus_umy": 2023,
+        "no_wa": "08*******11",
+        "email": "fauzifachriza@4gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/nAEmu92L5pH6hECk7",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-09-07 14:22:11.728000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9883312,
+          -6.3352343
+        ]
+      },
+      "properties": {
+        "nama": "Anjar Tri Sasongko",
+        "instansi": "PT. HSI",
+        "posisi": "Jawa Barat",
+        "tahun_masuk_umy": 1999,
+        "tahun_lulus_umy": 2003,
+        "no_wa": "08********77",
+        "email": "anjar_ts@yahoo.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/cPiCKFcwafLPEmr88",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-09-09 16:18:34.244000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.66665,
+          -6.1830822
+        ]
+      },
+      "properties": {
+        "nama": "Alfan Khalim",
+        "instansi": "PT. Sinergi Multi Teknologi",
+        "posisi": "Direktur",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2018,
+        "no_wa": "08********09",
+        "email": "alfan20khalim@gmail.com",
+        "aktivitas_saat_ini": "Wirausaha",
+        "alamat_kerja_url": "https://maps.app.goo.gl/5yGYNFSjFUSnzryAA",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-09-10 13:38:21.017000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7783443,
+          0.737522
+        ]
+      },
+      "properties": {
+        "nama": "Ariyanto",
+        "instansi": "PT. Loka Indah Lestari",
+        "posisi": "HSE",
+        "tahun_masuk_umy": 2014,
+        "tahun_lulus_umy": 2021,
+        "no_wa": "08********50",
+        "email": "ariyanto4.st@gmail.com",
+        "aktivitas_saat_ini": "Kerja di Industri",
+        "alamat_kerja_url": "https://maps.app.goo.gl/cYj6CzKMx2YEoR3p6",
+        "sumber_koordinat": "Extracted from Google Maps URL",
+        "timestamp": "2025-09-10 14:45:17.443000"
       }
     }
   ]

@@ -32,7 +32,7 @@ const elements = {
 document.addEventListener('DOMContentLoaded', async () => {
   initializeMap();
   setupEventListeners();
-  
+
   try {
     await loadAlumniData();
     processAlumniData();
@@ -89,7 +89,7 @@ function initializeMap() {
       let size = 'small';
       if (count > 10) size = 'large';
       else if (count > 5) size = 'medium';
-      
+
       return L.divIcon({
         html: `<div><span>${count}</span></div>`,
         className: `marker-cluster marker-cluster-${size}`,
@@ -132,7 +132,7 @@ function setupEventListeners() {
 
   // Close sidebar when clicking outside on mobile
   document.addEventListener('click', (e) => {
-    if (window.innerWidth <= 768 && 
+    if (window.innerWidth <= 768 &&
         elements.sidebar.classList.contains('open') &&
         !elements.sidebar.contains(e.target) &&
         !elements.toggleSidebar.contains(e.target)) {
@@ -177,7 +177,7 @@ function createMarkers() {
 
   filteredAlumni.forEach(alumni => {
     const [lng, lat] = alumni.coordinates;
-    
+
     const marker = L.circleMarker([lat, lng], {
       radius: 8,
       fillColor: '#218B8D',
@@ -196,7 +196,7 @@ function createMarkers() {
       <div class="popup-company">${alumni.company}</div>
       <div class="popup-position">${alumni.position}</div>
     `;
-    
+
     const viewProfileBtn = document.createElement('button');
     viewProfileBtn.className = 'popup-view-profile';
     viewProfileBtn.textContent = 'View Profile';
@@ -204,11 +204,11 @@ function createMarkers() {
       e.stopPropagation();
       showAlumniProfile(alumni.id);
     };
-    
+
     popupContent.appendChild(viewProfileBtn);
     marker.bindPopup(popupContent);
     marker.on('click', () => selectAlumni(alumni.id));
-    
+
     alumniMarkers.set(alumni.id, marker);
     markerClusterGroup.addLayer(marker);
   });
@@ -217,10 +217,10 @@ function createMarkers() {
 // Handle search functionality
 function handleSearch(e) {
   searchQuery = e.target.value.toLowerCase().trim();
-  
+
   if (searchQuery) {
     elements.clearSearch.classList.remove('hidden');
-    filteredAlumni = allAlumni.filter(alumni => 
+    filteredAlumni = allAlumni.filter(alumni =>
       alumni.name.toLowerCase().includes(searchQuery) ||
       alumni.company.toLowerCase().includes(searchQuery) ||
       alumni.position.toLowerCase().includes(searchQuery)
@@ -253,7 +253,7 @@ function clearSelection() {
   if (selectedAlumniId !== null) {
     const prevCard = document.querySelector(`[data-id="${selectedAlumniId}"]`);
     if (prevCard) prevCard.classList.remove('selected');
-    
+
     const prevMarker = alumniMarkers.get(selectedAlumniId);
     if (prevMarker) {
       prevMarker.setStyle({ fillColor: '#218B8D', radius: 8 });
@@ -287,9 +287,9 @@ function renderAlumniList() {
   // Add event listeners to alumni cards
   elements.alumniList.querySelectorAll('.alumni-card').forEach(card => {
     const alumniId = parseInt(card.dataset.id);
-    
+
     card.addEventListener('click', () => selectAlumni(alumniId));
-    
+
     card.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' || e.key === ' ') {
         e.preventDefault();
@@ -305,11 +305,11 @@ function selectAlumni(id) {
   clearSelection();
 
   selectedAlumniId = id;
-  
+
   // Highlight selected alumni
   const card = document.querySelector(`[data-id="${id}"]`);
   if (card) card.classList.add('selected');
-  
+
   const marker = alumniMarkers.get(id);
   if (marker) {
     marker.setStyle({ fillColor: '#E68161', radius: 12 });
@@ -328,7 +328,12 @@ function showAlumniProfile(id) {
   if (!alumni) return;
 
   const initials = alumni.name.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
-  
+
+      // <div class="detail-group">
+      //   <div class="detail-label">Location</div>
+      //   <div class="detail-value">${alumni.address}</div>
+      // </div>
+
   const profileHTML = `
     <div class="profile-header">
       <div class="profile-avatar">${initials}</div>
@@ -336,7 +341,7 @@ function showAlumniProfile(id) {
       <div class="profile-company">${alumni.company}</div>
       <div class="profile-position">${alumni.position}</div>
     </div>
-    
+
     <div class="profile-details">
       <div class="detail-group">
         <div class="detail-label">Education</div>
@@ -345,22 +350,19 @@ function showAlumniProfile(id) {
           ${alumni.startYear} - ${alumni.graduationYear}
         </div>
       </div>
-      
+
       <div class="detail-group">
         <div class="detail-label">Current Position</div>
         <div class="detail-value">${alumni.position}</div>
       </div>
-      
+
       <div class="detail-group">
         <div class="detail-label">Company</div>
         <div class="detail-value">${alumni.company}</div>
       </div>
-      
-      <div class="detail-group">
-        <div class="detail-label">Location</div>
-        <div class="detail-value">${alumni.address}</div>
-      </div>
-      
+
+
+
       <div class="detail-group">
         <div class="detail-label">Contact</div>
         <div class="detail-value">
@@ -376,7 +378,7 @@ function showAlumniProfile(id) {
   elements.profileContent.innerHTML = profileHTML;
   elements.profileModal.classList.remove('hidden');
   elements.profileModal.setAttribute('aria-hidden', 'false');
-  
+
   // Focus management for accessibility
   elements.closeModal.focus();
 }
@@ -401,18 +403,18 @@ function closeSidebar() {
 function resetMapView() {
   // Reset map view
   map.setView([-2.5, 118], 5);
-  
+
   // Clear search
   elements.searchInput.value = '';
   searchQuery = '';
   elements.clearSearch.classList.add('hidden');
-  
+
   // Reset to all alumni
   filteredAlumni = [...allAlumni];
   createMarkers();
   renderAlumniList();
   updateStats();
-  
+
   // Clear selection
   clearSelection();
 }
@@ -421,14 +423,14 @@ function resetMapView() {
 function updateVisibleAlumni() {
   const bounds = map.getBounds();
   let visibleCount = 0;
-  
+
   filteredAlumni.forEach(alumni => {
     const [lng, lat] = alumni.coordinates;
     if (bounds.contains([lat, lng])) {
       visibleCount++;
     }
   });
-  
+
   elements.visibleAlumni.textContent = visibleCount;
 }
 
