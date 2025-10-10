@@ -1,0 +1,40 @@
+{
+  "name": "umy-alumni-map",
+  "version": "1.0.0",
+  "description": "Interactive web application displaying University Muhammadiyah Yogyakarta alumni locations on a map",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/alumni-map-perplexity.git"
+  },
+  "keywords": [
+    "alumni",
+    "map",
+    "leaflet",
+    "javascript",
+    "static-site",
+    "geojson",
+    "university",
+    "yogyakarta"
+  ],
+  "author": "UMY Alumni Map Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/alumni-map-perplexity/issues"
+  },
+  "homepage": "https://github.com/yourusername/alumni-map-perplexity#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
