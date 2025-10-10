@@ -149,7 +149,12 @@ function processAlumniData() {
     return;
   }
 
-  allAlumni = alumniData.features.map((feature, index) => ({
+  // Filter out entries with "Default (needs manual update)" coordinate source
+  const validFeatures = alumniData.features.filter(feature =>
+    feature.properties.sumber_koordinat !== "Default (needs manual update)"
+  );
+
+  allAlumni = validFeatures.map((feature, index) => ({
     id: index,
     name: feature.properties.nama,
     company: feature.properties.instansi,
