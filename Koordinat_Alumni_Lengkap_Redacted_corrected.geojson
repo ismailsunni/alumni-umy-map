@@ -158,7 +158,7 @@
         "email": "irfanarfi24@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/WdhkpvpFogUHnawK8?g_st=com.google.maps.preview.copy",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 18:45:10.270000"
       }
     },
@@ -227,7 +227,7 @@
         "email": "nadziful.malik@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x2e6a2019e6d365f5:0x86e8ba97e1830470?entry=s&sa=X&ved=1t:8290&hl=id&ictx=111",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 18:45:44.098000"
       }
     },
@@ -236,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.5434219,
-          -7.6074625
+          110.543421875,
+          -7.6074625000000005
         ]
       },
       "properties": {
@@ -250,7 +250,7 @@
         "email": "adibmuhammadn@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/iwf7Ts6BdtTfyecK7?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 9GVV+297 (6P4G9GVV+297)",
         "timestamp": "2025-08-26 18:45:49.188000"
       }
     },
@@ -282,7 +282,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.2825469,
+          115.28254687500001,
           -3.1613375
         ]
       },
@@ -296,7 +296,7 @@
         "email": "Septian.widodo23@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/Y6EqBxjThhznA4Zk6?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code R7QM+F27 (6P8QR7QM+F27)",
         "timestamp": "2025-08-26 18:48:09.825000"
       }
     },
@@ -434,7 +434,7 @@
         "email": "muhammadaldi497@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/t3xRLcyk81wmwLyy8",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 18:51:14.156000"
       }
     },
@@ -443,8 +443,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3211094,
-          -7.8081375
+          110.321109375,
+          -7.808137500000001
         ]
       },
       "properties": {
@@ -457,7 +457,7 @@
         "email": "miftah.faruqibnul@gmail.com",
         "aktivitas_saat_ini": "Kerja di Universitas",
         "alamat_kerja_url": "https://maps.app.goo.gl/ymCEiHjcPHZMc2Z96",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 58RC+PCX (6P4G58RC+PCX)",
         "timestamp": "2025-08-26 18:52:10.171000"
       }
     },
@@ -503,7 +503,7 @@
         "email": "ikhsan@sansinergi.co.id",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/EXtWBM4bHiMyVbwYA",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 18:53:40.722000"
       }
     },
@@ -572,7 +572,7 @@
         "email": "abdurrasyidfaishal@gmail.com",
         "aktivitas_saat_ini": "Mining",
         "alamat_kerja_url": "https://maps.app.goo.gl/TynekNph5JP5tJzeA",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 18:55:49.407000"
       }
     },
@@ -664,7 +664,7 @@
         "email": "rakhasyahirs@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/eVj9otE8NsW2FsUB9",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 18:57:47.908000"
       }
     },
@@ -696,7 +696,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.1000781,
+          121.100078125,
           -2.4164875
         ]
       },
@@ -710,7 +710,7 @@
         "email": "prastomoniko@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/wvkzs6HxL2ccbVVb7",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code H4M2+C24 (6Q93H4M2+C24)",
         "timestamp": "2025-08-26 18:59:55.793000"
       }
     },
@@ -756,7 +756,7 @@
         "email": "pifhema@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/dAAi5aAbCTWT3bnc9",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:01:10.600000"
       }
     },
@@ -779,7 +779,7 @@
         "email": "ilhamalanfirdaus21@gmail.com",
         "aktivitas_saat_ini": "Karyawan swasta",
         "alamat_kerja_url": "https://maps.app.goo.gl/WhYnkUDbssEmmoXD8",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:01:31.058000"
       }
     },
@@ -788,7 +788,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.7330156,
+          100.73301562500001,
           0.5219875
         ]
       },
@@ -802,7 +802,7 @@
         "email": "azyumuardiazra12@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/sKfwgkRir67veFES9?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code GPCM+Q6R (6PG2GPCM+Q6R)",
         "timestamp": "2025-08-26 19:01:48.268000"
       }
     },
@@ -871,7 +871,7 @@
         "email": "Tututhardianto17@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/RA6oVR9exa52cHjm9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:06:39.955000"
       }
     },
@@ -894,7 +894,7 @@
         "email": "sidik.kun77@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.apple.com/place?address=Pengadan%20Baru,%20Kabupaten%20Kutai%20Timur,%20East%20Kalimantan,%20Indonesia&coordinate=1.167646,117.698649&name=Office%20United%20Tractors%20Sangkulirang%20Support%20Point%20GAM&place-id=IEB6A9B9004E3066D&map=explore",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Apple Maps URL (coordinate param)",
         "timestamp": "2025-08-26 19:06:41.867000"
       }
     },
@@ -1055,7 +1055,7 @@
         "email": "sofyanpratama13@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/VkY9EiWG1t8n354y5",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:16:55.783000"
       }
     },
@@ -1124,7 +1124,7 @@
         "email": "muhammadarif_n@ymail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/g43TrdEoxLXszidz8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:21:44.751000"
       }
     },
@@ -1193,7 +1193,7 @@
         "email": "farisdulrosyid@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://www.google.com/search?client=ms-android-oppo&sca_esv=8311c5b9cd6f6b3e&sxsrf=AE3TifPXdIRcl9pUFSi_0gtq0oJneNQFoQ%3A1756211160222&kgmid=%2Fg%2F11fhz0qtch&q=PT.%20Indomarco%20Prismatama%20Cabang%20Klaten&shndl=30&shem=lsptbl1&source=sh%2Fx%2Floc%2Fact%2Fm1%2F2&kgs=687980e26e2eb940",
-        "sumber_koordinat": "Geocoded from company name",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:26:36"
       }
     },
@@ -1202,8 +1202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.0328594,
-          -7.2253625
+          110.032859375,
+          -7.225362499999999
         ]
       },
       "properties": {
@@ -1216,7 +1216,7 @@
         "email": "Davidprastomo@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/gV9xMNtYvzKoD9qg6?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code Q2FM+V45 (6P4GQ2FM+V45)",
         "timestamp": "2025-08-26 19:29:06.273000"
       }
     },
@@ -1308,7 +1308,7 @@
         "email": "ikrar.praja123@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/Y7RiR3DrLA1qz9UN7",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:39:13.717000"
       }
     },
@@ -1377,7 +1377,7 @@
         "email": "fajarandika.9d@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri, Kerja di Universitas",
         "alamat_kerja_url": "https://share.google/SPXAQNlqg60NgnIik",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:46:25.707000"
       }
     },
@@ -1400,7 +1400,7 @@
         "email": "widhybecka@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/jaaxBNUE98u3xBKK6",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:48:52.920000"
       }
     },
@@ -1469,7 +1469,7 @@
         "email": "al.qodimy@gmail.com",
         "aktivitas_saat_ini": "Kerja di Universitas",
         "alamat_kerja_url": "https://maps.app.goo.gl/CEgbYfrudZNEpgGr8?g_st=ac",
-        "sumber_koordinat": "Geocoded from company name",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:53:08.944000"
       }
     },
@@ -1538,7 +1538,7 @@
         "email": "immawan.wa@gmail.com",
         "aktivitas_saat_ini": "Kerja di Pemprov Jawa Tengah",
         "alamat_kerja_url": "https://maps.app.goo.gl/Gn9LgFyzEzVApWXR8?g_st=aw",
-        "sumber_koordinat": "Geocoded from company name",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 19:57:40.466000"
       }
     },
@@ -1547,7 +1547,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.0253594,
+          106.02535937500001,
           -5.8972875
         ]
       },
@@ -1561,7 +1561,7 @@
         "email": "elfatmustaqim@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/WCxFX7Yr6H6AGKF56",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 423G+34Q (6P68423G+34Q)",
         "timestamp": "2025-08-26 19:58:43.022000"
       }
     },
@@ -1607,7 +1607,7 @@
         "email": "sulistyo.pujiono.eng@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/6H1tgAWAEkkc9vN37?g_st=ipc",
-        "sumber_koordinat": "Geocoded from company name",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 20:00:00.400000"
       }
     },
@@ -1800,8 +1800,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.5771719,
-          -3.3421375
+          114.577171875,
+          -3.3421374999999998
         ]
       },
       "properties": {
@@ -1814,7 +1814,7 @@
         "email": "ball.ir12@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/LyepjjPwh6ELkePb9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code MH5G+4VV (6P8PMH5G+4VV)",
         "timestamp": "2025-08-26 20:22:57.741000"
       }
     },
@@ -1929,7 +1929,7 @@
         "email": "arfiskayudaprastya@gmail.com",
         "aktivitas_saat_ini": "Natural Gas",
         "alamat_kerja_url": "https://maps.app.goo.gl/j6EAp9bPAZS8bLaS6",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 20:39:51.943000"
       }
     },
@@ -1952,7 +1952,7 @@
         "email": "eko.widodo.tm@gmail.com",
         "aktivitas_saat_ini": "Guru Produktif TKR",
         "alamat_kerja_url": "https://maps.app.goo.gl/wQu6jvsaMYEtcqb69",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 20:43:23.296000"
       }
     },
@@ -1998,7 +1998,7 @@
         "email": "cinhosan@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/RD6cYK29qLgXwFKC6",
-        "sumber_koordinat": "Geocoded from company name",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 20:49:15.211000"
       }
     },
@@ -2021,7 +2021,7 @@
         "email": "bagaskoro.bayu@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/zsNV1V1FaQe4482V7",
-        "sumber_koordinat": "Geocoded from company name",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 20:50:20.379000"
       }
     },
@@ -2076,7 +2076,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.0232969,
+          102.02329687500001,
           0.3494125
         ]
       },
@@ -2090,7 +2090,7 @@
         "email": "yudhaadtm26@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/8MQyL8tNULVpxVhK7?g_st=com.google.maps.preview.copy",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 82XF+Q87 (6PG482XF+Q87)",
         "timestamp": "2025-08-26 21:00:45.199000"
       }
     },
@@ -2099,7 +2099,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          128.2542969,
+          128.25429687500002,
           -3.6343125
         ]
       },
@@ -2113,7 +2113,7 @@
         "email": "anggitdpras25@gmail.com",
         "aktivitas_saat_ini": "Kerja di Instansi Pemerintahan",
         "alamat_kerja_url": "https://maps.app.goo.gl/YpwqAuKjkAZb1hDq9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 9783+7PF (6Q8C9783+7PF)",
         "timestamp": "2025-08-26 21:01:56.622000"
       }
     },
@@ -2159,7 +2159,7 @@
         "email": "hidayatullahyaya73@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/ZUDjw4QeWTDCUfmP9?g_st=com.google.maps.preview.copy",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 21:11:03.374000"
       }
     },
@@ -2191,7 +2191,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.6099844,
+          127.60998437500001,
           1.7562125
         ]
       },
@@ -2205,7 +2205,7 @@
         "email": "flmbssy@gmail.com",
         "aktivitas_saat_ini": "Kerja di Pemerintahan",
         "alamat_kerja_url": "https://maps.app.goo.gl/VcrBUUeXtYKwccT58?g_st=ac",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code QJ45+FXQ (6QH9QJ45+FXQ)",
         "timestamp": "2025-08-26 21:12:57.566000"
       }
     },
@@ -2228,7 +2228,7 @@
         "email": "sulistyoeko1728@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/i4QHUmy3LFe6oM9E8?g_st=atm",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 21:19:17.211000"
       }
     },
@@ -2352,7 +2352,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.2420781,
+          115.242078125,
           -8.6686875
         ]
       },
@@ -2366,7 +2366,7 @@
         "email": "irsalmhmd89@gmail.com",
         "aktivitas_saat_ini": "Inspektor ",
         "alamat_kerja_url": "https://maps.app.goo.gl/Rq5sMtPzR2ZBvpaQ8?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 86JR+GRG (6P3Q86JR+GRG)",
         "timestamp": "2025-08-26 21:41:31.710000"
       }
     },
@@ -2375,7 +2375,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.5497344,
+          120.54973437500001,
           -1.6240875
         ]
       },
@@ -2389,7 +2389,7 @@
         "email": "hnr.jya@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/TdSF3t6tc5mB1zQx5",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 9GGX+9V9 (6QC29GGX+9V9)",
         "timestamp": "2025-08-26 21:43:18.963000"
       }
     },
@@ -2412,7 +2412,7 @@
         "email": "nurcahyaandika933@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/cPAVSqKuewfza7iL7",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 21:48:41.637000"
       }
     },
@@ -2435,7 +2435,7 @@
         "email": "santosoridwan19@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/amqLZPT9F54Cf2XG7?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 21:51:24.519000"
       }
     },
@@ -2481,7 +2481,7 @@
         "email": "adangmubarok@gmail.com",
         "aktivitas_saat_ini": "ASN",
         "alamat_kerja_url": "https://maps.app.goo.gl/vewVjgWjKaT5gaMt7?g_st=ac",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 22:02:04.472000"
       }
     },
@@ -2504,7 +2504,7 @@
         "email": "rahmatramadhanv@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/pkndbzcKKPGRHw7w7",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 22:07:30.450000"
       }
     },
@@ -2527,7 +2527,7 @@
         "email": "gemilangtrifaperdana99@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/o6U8cvqPSHuFeW9n9?g_st=ac",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 22:12:53.005000"
       }
     },
@@ -2573,7 +2573,7 @@
         "email": "anjaricof@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://share.google/cEW2U9OiTzwTUO4Nu",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 22:16:29.148000"
       }
     },
@@ -2642,7 +2642,7 @@
         "email": "faiz.prakasa17@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/9k79YdMcELoAEwAA9?g_st=ipc",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 22:23:16.268000"
       }
     },
@@ -2665,7 +2665,7 @@
         "email": "hartantosigit27@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://share.google/ZEE7RhcHacZvuaAlr",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 22:23:33.103000"
       }
     },
@@ -2674,7 +2674,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.9554531,
+          114.955453125,
           -2.8231625
         ]
       },
@@ -2688,7 +2688,7 @@
         "email": "fajarramad09@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/am2UBgHDWt5F7VTT6?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 5XG4+P5P (6P9P5XG4+P5P)",
         "timestamp": "2025-08-26 22:25:07.194000"
       }
     },
@@ -2711,7 +2711,7 @@
         "email": "herpramaganthus@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/cRFEeqdtBj46YNuCA?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-26 22:28:10.030000"
       }
     },
@@ -2812,8 +2812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.4170469,
-          -7.7448875
+          110.41704687500001,
+          -7.744887500000001
         ]
       },
       "properties": {
@@ -2826,7 +2826,7 @@
         "email": "lukmanhaakkim@gmail.com",
         "aktivitas_saat_ini": "GIS Surveyor ",
         "alamat_kerja_url": "https://maps.app.goo.gl/KZXcFdhyM5TEvyQAA",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 7C48+2RV (6P4G7C48+2RV)",
         "timestamp": "2025-08-26 22:37:02.565000"
       }
     },
@@ -2973,8 +2973,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.3651886,
-          -7.4046998
+          109.36542187500001,
+          -7.404562500000001
         ]
       },
       "properties": {
@@ -2987,7 +2987,7 @@
         "email": "rezapratamaputra868@gmail.com",
         "aktivitas_saat_ini": "Konstruksi",
         "alamat_kerja_url": "https://maps.app.goo.gl/jJgexhgX4hmbtHT67",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code H9W8+55F (6P4FH9W8+55F)",
         "timestamp": "2025-08-26 23:34:01.772000"
       }
     },
@@ -2996,8 +2996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.226326,
-          -0.6907107
+          117.226140625,
+          -0.6909875
         ]
       },
       "properties": {
@@ -3010,7 +3010,7 @@
         "email": "Rahmacatur128@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/QayVKP3JSGcx9Rm38?g_st=ac",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 865G+JF2 (6PFV865G+JF2)",
         "timestamp": "2025-08-26 23:50:11.829000"
       }
     },
@@ -3042,7 +3042,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.2995469,
+          110.299546875,
           -7.8365375
         ]
       },
@@ -3056,7 +3056,7 @@
         "email": "paramayudhaelang03@gmail.com",
         "aktivitas_saat_ini": "Driver online",
         "alamat_kerja_url": "https://maps.app.goo.gl/hCtD3a19ghhBYXoQ9?g_st=ac",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 577X+9RM (6P4G577X+9RM)",
         "timestamp": "2025-08-27 00:13:51.855000"
       }
     },
@@ -3066,7 +3066,7 @@
         "type": "Point",
         "coordinates": [
           110.3406875,
-          -7.8646875
+          -7.8646875000000005
         ]
       },
       "properties": {
@@ -3079,7 +3079,7 @@
         "email": "ardianta.setiawan@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/GBZhA3rESXH5JCX89?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 48PR+47 (6P4G48PR+47)",
         "timestamp": "2025-08-27 00:20:07.496000"
       }
     },
@@ -3102,7 +3102,7 @@
         "email": "maidil734@gmail.con",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/yKj26tCc1WUofNtb8?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 00:52:57.304000"
       }
     },
@@ -3125,7 +3125,7 @@
         "email": "jinut.mm@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/W9EZTuvQwhc2wbdf9?g_st=com.google.maps.preview.copy",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 01:05:28.014000"
       }
     },
@@ -3171,7 +3171,7 @@
         "email": "aristaanggariawan46@gmail.com",
         "aktivitas_saat_ini": "Guru",
         "alamat_kerja_url": "https://maps.app.goo.gl/Xae3f2DtHwVByWrYA",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 05:58:51.527000"
       }
     },
@@ -3194,7 +3194,7 @@
         "email": "triandi987@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/ay5yE6aXEcxDrghT7",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 06:03:12.225000"
       }
     },
@@ -3355,7 +3355,7 @@
         "email": "Himagw@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/ynpzJE6fKg1gWVP2A",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 07:56:01.662000"
       }
     },
@@ -3470,7 +3470,7 @@
         "email": "Fajarnf20@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/cuRANy7QDMC7mK7F7",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 08:47:07.686000"
       }
     },
@@ -3502,7 +3502,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.8974844,
+          115.897484375,
           -0.9511375
         ]
       },
@@ -3516,7 +3516,7 @@
         "email": "ariayudha1015@gmail.com",
         "aktivitas_saat_ini": "Kerja di Instansi Pemerintah ",
         "alamat_kerja_url": "https://maps.app.goo.gl/tpmN6Dy6LiQr4cwz7",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 2VXW+GXX (6PFQ2VXW+GXX)",
         "timestamp": "2025-08-27 09:23:30.979000"
       }
     },
@@ -3640,7 +3640,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8328594,
+          103.83285937500001,
           -3.7705125
         ]
       },
@@ -3677,7 +3677,7 @@
         "email": "sentosaimankurnia@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/3GeBbpZHp6DjPvSe7",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 10:33:24.830000"
       }
     },
@@ -3700,7 +3700,7 @@
         "email": "s.wahyu.p@gmail.com",
         "aktivitas_saat_ini": "Perangkat Desa",
         "alamat_kerja_url": "https://maps.app.goo.gl/3TdZ99RRPqEgorx79",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 10:57:32.481000"
       }
     },
@@ -3847,8 +3847,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.7721094,
-          0.7556875
+          116.77210937500001,
+          0.7556875000000001
         ]
       },
       "properties": {
@@ -3861,7 +3861,7 @@
         "email": "yosa.wahyu.saputra@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/5H79cVrHRmAyMZcb6?g_st=ipc",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code QQ4C+7RH (6PGRQQ4C+7RH)",
         "timestamp": "2025-08-27 14:50:22.150000"
       }
     },
@@ -3884,7 +3884,7 @@
         "email": "Yankeisnasopi@gmail.com",
         "aktivitas_saat_ini": "Kerja di perusahaan swasta",
         "alamat_kerja_url": "https://maps.app.goo.gl/kiy6DqtYMn1emhN57",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-27 15:20:38.906000"
       }
     },
@@ -3916,7 +3916,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.8697344,
+          116.86973437500001,
           0.1436875
         ]
       },
@@ -3930,7 +3930,7 @@
         "email": "yoganis.alayubi@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/f2nSzRnZSauUc3Pz8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code 4VV9+FVH (6PGR4VV9+FVH)",
         "timestamp": "2025-08-27 17:49:39.922000"
       }
     },
@@ -4045,7 +4045,7 @@
         "email": "nunuanahdi55@gmail.com",
         "aktivitas_saat_ini": "Lembaga kursus",
         "alamat_kerja_url": "https://share.google/rd3TFn9kUutTL4avo",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-28 15:02:51.935000"
       }
     },
@@ -4091,7 +4091,7 @@
         "email": "Irvan_nurhuda@ymail.com",
         "aktivitas_saat_ini": "Karyawan Swasta",
         "alamat_kerja_url": "https://maps.app.goo.gl/yznoAMEXpfxoFtLJA",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-08-28 17:51:22.251000"
       }
     },
@@ -4160,7 +4160,7 @@
         "email": "Paramagood@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/rd8VXFdCryMfrrAfA",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-09-01 06:51:00.856000"
       }
     },
@@ -4183,7 +4183,7 @@
         "email": "muhamadfachrialfudholi@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/pq6Jt11pLVuNYgk56?g_st=ac",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-09-01 08:03:33.707000"
       }
     },
@@ -4275,7 +4275,7 @@
         "email": "destik.95@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/s65zVVMNp5iYdUbj7",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-09-04 16:08:43.702000"
       }
     },
@@ -4298,7 +4298,7 @@
         "email": "mr.juliansyah97@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/9qCjooDMHP4JrV3f8",
-        "sumber_koordinat": "Geocoded from company/location info",
+        "sumber_koordinat": "Needs manual review",
         "timestamp": "2025-09-04 18:41:38.142000"
       }
     },
