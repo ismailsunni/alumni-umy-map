@@ -334,6 +334,9 @@ function showAlumniProfile(id) {
   if (!alumni) return;
 
   const initials = alumni.name.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
+  const companyLink = alumni.mapsUrl
+    ? '<a href="' + alumni.mapsUrl + '" target="_blank" rel="noopener noreferrer">' + alumni.company + '</a>'
+    : alumni.company;
 
       // <div class="detail-group">
       //   <div class="detail-label">Location</div>
@@ -344,7 +347,7 @@ function showAlumniProfile(id) {
     <div class="profile-header">
       <div class="profile-avatar">${initials}</div>
       <div class="profile-name">${alumni.name}</div>
-      <div class="profile-company">${alumni.mapsUrl ? `<a href="${alumni.mapsUrl}" target="_blank" rel="noopener noreferrer">${alumni.company}</a>` : alumni.company}</div>
+      <div class="profile-company">${companyLink}</div>
       <div class="profile-position">${alumni.position}</div>
     </div>
 
@@ -364,7 +367,7 @@ function showAlumniProfile(id) {
 
       <div class="detail-group">
         <div class="detail-label">Company</div>
-        <div class="detail-value">${alumni.mapsUrl ? `<a href="${alumni.mapsUrl}" target="_blank" rel="noopener noreferrer">${alumni.company}</a>` : alumni.company}</div>
+        <div class="detail-value">${companyLink}</div>
       </div>
 
 
