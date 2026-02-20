@@ -163,6 +163,7 @@ function processAlumniData() {
     graduationYear: feature.properties.tahun_lulus_umy,
     phone: feature.properties.no_wa,
     address: feature.properties.alamat,
+    mapsUrl: feature.properties.alamat_kerja_url,
     coordinates: feature.geometry.coordinates,
     coordinateSource: feature.properties.sumber_koordinat
   }));
@@ -343,7 +344,7 @@ function showAlumniProfile(id) {
     <div class="profile-header">
       <div class="profile-avatar">${initials}</div>
       <div class="profile-name">${alumni.name}</div>
-      <div class="profile-company">${alumni.company}</div>
+      <div class="profile-company">${alumni.mapsUrl ? `<a href="${alumni.mapsUrl}" target="_blank" rel="noopener noreferrer">${alumni.company}</a>` : alumni.company}</div>
       <div class="profile-position">${alumni.position}</div>
     </div>
 
@@ -363,7 +364,7 @@ function showAlumniProfile(id) {
 
       <div class="detail-group">
         <div class="detail-label">Company</div>
-        <div class="detail-value">${alumni.company}</div>
+        <div class="detail-value">${alumni.mapsUrl ? `<a href="${alumni.mapsUrl}" target="_blank" rel="noopener noreferrer">${alumni.company}</a>` : alumni.company}</div>
       </div>
 
 

@@ -1184,6 +1184,18 @@ select.form-control {
   margin-bottom: var(--space-4);
 }
 
+.profile-company a,
+.detail-value a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.profile-company a:hover,
+.detail-value a:hover {
+  color: var(--color-primary);
+}
+
 .profile-position {
   color: var(--color-text-secondary);
 }
