@@ -29,8 +29,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.6847678,
-          -0.8905453
+          133.0194897,
+          -0.9989582
         ]
       },
       "properties": {
@@ -43,7 +43,7 @@
         "email": "rizkyirmansyah67@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/3crrEDZkGjdcXezf8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 18:41:30.929000"
       }
     },
@@ -305,8 +305,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.7726587,
-          -6.5061991
+          105.6881788,
+          -5.1134995
         ]
       },
       "properties": {
@@ -319,7 +319,7 @@
         "email": "Arif.iskandar1896@gmail.com",
         "aktivitas_saat_ini": "Bertani",
         "alamat_kerja_url": "https://maps.app.goo.gl/XYkqxDkvtYUw9qyc9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 18:48:33.331000"
       }
     },
@@ -328,8 +328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.4982599,
-          -7.608187
+          109.5132244,
+          -7.6086913
         ]
       },
       "properties": {
@@ -342,7 +342,7 @@
         "email": "truly3501@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/hTuVWpMvMJY18zDF6",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 18:49:05.917000"
       }
     },
@@ -374,8 +374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.553559,
-          -8.7994039
+          116.8910342,
+          -8.9292907
         ]
       },
       "properties": {
@@ -388,7 +388,7 @@
         "email": "bagaskarategar04@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/MD3m7NcbK3y9Abkt8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 18:50:39.498000"
       }
     },
@@ -535,7 +535,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.5514766,
+          103.0788204,
           -1.0057561
         ]
       },
@@ -549,7 +549,7 @@
         "email": "Arbirosadi96@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/QQqjF59LQYTUfEuh9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 18:55:35.889000"
       }
     },
@@ -581,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.6384281,
-          -7.6783682
+          109.6608012,
+          -7.6709292
         ]
       },
       "properties": {
@@ -595,7 +595,7 @@
         "email": "diegomaryanto@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/jDFmEQR5FdZvE1kk9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 18:56:41.199000"
       }
     },
@@ -926,8 +926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.6553861,
-          -2.4475228
+          111.0460407,
+          -2.4815176
         ]
       },
       "properties": {
@@ -940,7 +940,7 @@
         "email": "Umaizanusaibah2018@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/ZKcSJkdA1N8MiXnT9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 19:08:25.509000"
       }
     },
@@ -949,8 +949,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.6317344,
-          -6.3585976
+          106.6659792,
+          -6.3482799
         ]
       },
       "properties": {
@@ -963,7 +963,7 @@
         "email": "yatno220989@gmail.com",
         "aktivitas_saat_ini": "Badan Riset dan Inovasi Nasional",
         "alamat_kerja_url": "https://maps.app.goo.gl/fqxHMfuXLKiqXmA17",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 19:10:34.990000"
       }
     },
@@ -995,8 +995,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.0394016,
-          -0.7832349
+          117.2340069,
+          -0.8265394
         ]
       },
       "properties": {
@@ -1009,7 +1009,7 @@
         "email": "absuryateknindo08@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/rBqPQpzrbNWdwFNH9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 19:14:38.154000"
       }
     },
@@ -1064,8 +1064,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.6485961,
-          -1.3773439
+          113.3823545,
+          -1.6814878
         ]
       },
       "properties": {
@@ -1078,7 +1078,7 @@
         "email": "Akbarafrizal471@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/emXG2qAsrZM27GpT7",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 19:17:45.214000"
       }
     },
@@ -1570,8 +1570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.2807029,
-          1.8074755
+          118.0908588,
+          2.2791966
         ]
       },
       "properties": {
@@ -1584,7 +1584,7 @@
         "email": "Hasril822@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/sabaXk1k7FEpnRdt6",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 19:59:54.023000"
       }
     },
@@ -1639,7 +1639,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.8248087,
+          122.2623087,
           -4.0620978
         ]
       },
@@ -1653,7 +1653,7 @@
         "email": "eng.anggahimawan@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/MbFKEqMf3mJMNmKy8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 20:04:28.755000"
       }
     },
@@ -1685,8 +1685,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.6487389,
-          -1.3773444
+          113.3823545,
+          -1.6814878
         ]
       },
       "properties": {
@@ -1699,7 +1699,7 @@
         "email": "madsangadat@gmail.com",
         "aktivitas_saat_ini": "Di perusahaan ",
         "alamat_kerja_url": "https://maps.app.goo.gl/6zQLXtTvFr1LCX1MA",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 20:11:19.501000"
       }
     },
@@ -1892,8 +1892,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3336452,
-          -7.8031634
+          110.3647568,
+          -7.8013672
         ]
       },
       "properties": {
@@ -1906,7 +1906,7 @@
         "email": "m.ramadhan1089@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/ycgAPhu1SmEpiHrj6",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 20:34:29.045000"
       }
     },
@@ -1961,8 +1961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6018557,
-          -6.8677467
+          107.6488997,
+          -6.8069163
         ]
       },
       "properties": {
@@ -1975,7 +1975,7 @@
         "email": "hendricjimmy@gmail.com",
         "aktivitas_saat_ini": "Kerja di Balai Pelatihan",
         "alamat_kerja_url": "https://maps.app.goo.gl/pTHrfUGZ8RH9GsDk7",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 20:48:44.209000"
       }
     },
@@ -2053,8 +2053,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.1820185,
-          -6.3471793
+          108.3265265,
+          -6.3281861
         ]
       },
       "properties": {
@@ -2067,7 +2067,7 @@
         "email": "Adeyogapratama3@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/skHBytCc6TdsZuG99",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 20:55:24.056000"
       }
     },
@@ -2122,7 +2122,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.8660347,
+          100.3933785,
           1.7163571
         ]
       },
@@ -2136,7 +2136,7 @@
         "email": "danuoktoriadi@gmail.com",
         "aktivitas_saat_ini": "Wirausaha, Kerja di Industri, Bercocok Tanam Kelapa Sawit",
         "alamat_kerja_url": "https://maps.app.goo.gl/eW3eUnLQtFZsJ9jB8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 21:09:48.025000"
       }
     },
@@ -2168,8 +2168,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.7166554,
-          -2.8513561
+          140.760151,
+          -2.9002353
         ]
       },
       "properties": {
@@ -2182,7 +2182,7 @@
         "email": "arifjpr1717@gmail.com",
         "aktivitas_saat_ini": "Tendik",
         "alamat_kerja_url": "https://maps.app.goo.gl/6bvCdH5CzoDCZvTC9",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 21:12:32.648000"
       }
     },
@@ -2260,8 +2260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.0838001,
-          -4.6112407
+          105.3817681,
+          -4.7027751
         ]
       },
       "properties": {
@@ -2274,7 +2274,7 @@
         "email": "Agungtriana0902@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/TEdFxVVXrhgCb2wbA",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 21:27:17.950000"
       }
     },
@@ -2605,8 +2605,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.4107733,
-          -6.1783288
+          106.8126178,
+          -6.17568
         ]
       },
       "properties": {
@@ -2619,7 +2619,7 @@
         "email": "rizkynandaparely2@yahoo.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/NgXNvv9FRZkp9NJG7",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 22:22:42.265000"
       }
     },
@@ -2720,8 +2720,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.1566587,
-          -7.3186045
+          110.175507,
+          -7.3162486
         ]
       },
       "properties": {
@@ -2734,7 +2734,7 @@
         "email": "hardiyantolian@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/WDgNxCU5JpnYPWTJ6",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 22:28:26.200000"
       }
     },
@@ -2743,8 +2743,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          112.0192974,
-          -7.0627815
+          112.0521082,
+          -7.0642076
         ]
       },
       "properties": {
@@ -2757,7 +2757,7 @@
         "email": "arrifok@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/ip8n7LRhfsqN3UbX8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 22:29:53.858000"
       }
     },
@@ -2766,8 +2766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.4433976,
-          0.9171476
+          104.4665072,
+          0.9185504
         ]
       },
       "properties": {
@@ -2780,7 +2780,7 @@
         "email": "indaharusena02@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/J859xGE9A1kCexTy8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 22:31:14.366000"
       }
     },
@@ -2904,8 +2904,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.4056851,
-          -6.9961418
+          110.412712,
+          -6.9820957
         ]
       },
       "properties": {
@@ -2918,7 +2918,7 @@
         "email": "sandykasema1982@gmail.com",
         "aktivitas_saat_ini": "PNS ",
         "alamat_kerja_url": "https://maps.app.goo.gl/1nN9qh1VBMF5No7r5",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 22:52:02.140000"
       }
     },
@@ -2927,8 +2927,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.3323978,
-          -6.9189815
+          109.3806671,
+          -6.8899399
         ]
       },
       "properties": {
@@ -2941,7 +2941,7 @@
         "email": "fachrulakbar21@gmail.com",
         "aktivitas_saat_ini": "Wirausaha, Kerja di Industri, Kuliah Magister",
         "alamat_kerja_url": "https://maps.app.goo.gl/kVHbLYs1bVnEhLyT8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-26 22:54:42.036000"
       }
     },
@@ -3134,7 +3134,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.2556135,
+          110.3215315,
           -7.8767481
         ]
       },
@@ -3148,7 +3148,7 @@
         "email": "Achmaddwitn@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/57AtY1mJ8BDP5L1h8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-27 04:41:07.003000"
       }
     },
@@ -3525,8 +3525,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.6500368,
-          -6.6067041
+          110.668665,
+          -6.5986223
         ]
       },
       "properties": {
@@ -3539,7 +3539,7 @@
         "email": "dani.nala29@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/iveRWk7MmbSZQBkw6",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-27 09:33:57.134000"
       }
     },
@@ -3594,8 +3594,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.5480823,
-          -7.9477566
+          110.5873013,
+          -7.9517441
         ]
       },
       "properties": {
@@ -3608,7 +3608,7 @@
         "email": "rofikheriyadi94@gmail.com",
         "aktivitas_saat_ini": "Guru Teknik Pemesinan",
         "alamat_kerja_url": "https://maps.app.goo.gl/DyjRDAX1g8iuSSjB7",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-27 10:15:42.020000"
       }
     },
@@ -3778,8 +3778,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.9124348,
-          -2.8761778
+          114.9518027,
+          -2.9293648
         ]
       },
       "properties": {
@@ -3792,7 +3792,7 @@
         "email": "prihandokopanji@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/LfS7XnzUz1Posz1K6",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-27 11:55:37.181000"
       }
     },
@@ -3801,8 +3801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.1554183,
-          -6.770223
+          110.353163,
+          -7.017228
         ]
       },
       "properties": {
@@ -3815,7 +3815,7 @@
         "email": "mxaldy137@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/b8iDg7Tc6y4WCvCP6",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-27 13:33:18.396000"
       }
     },
@@ -3893,8 +3893,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.8877255,
-          -6.2848004
+          106.9830865,
+          -6.2733758
         ]
       },
       "properties": {
@@ -3907,7 +3907,7 @@
         "email": "nursidik04071993@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/X76P8rbcJWYVeEG67",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-27 16:01:51.979000"
       }
     },
@@ -3962,8 +3962,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.1384203,
-          -6.1106105
+          106.1404687,
+          -6.1258849
         ]
       },
       "properties": {
@@ -3976,7 +3976,7 @@
         "email": "ekoyugo3@gmail.com",
         "aktivitas_saat_ini": "Freelance",
         "alamat_kerja_url": "https://maps.app.goo.gl/w29rZnmE6jgR5UKp8",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-08-28 07:04:36.980000"
       }
     },
@@ -4215,8 +4215,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.5593023,
-          -3.9435549
+          105.0336435,
+          -3.9874624
         ]
       },
       "properties": {
@@ -4229,7 +4229,7 @@
         "email": "ulilamryst@gmail.com",
         "aktivitas_saat_ini": "Wirausaha",
         "alamat_kerja_url": "https://maps.app.goo.gl/MfQ5zWE37PASHEqEA",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-09-02 23:07:00.266000"
       }
     },
@@ -4376,7 +4376,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.7783443,
+          121.305688,
           0.737522
         ]
       },
@@ -4390,7 +4390,7 @@
         "email": "ariyanto4.st@gmail.com",
         "aktivitas_saat_ini": "Kerja di Industri",
         "alamat_kerja_url": "https://maps.app.goo.gl/cYj6CzKMx2YEoR3p6",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Extracted from Google Maps URL (pin)",
         "timestamp": "2025-09-10 14:45:17.443000"
       }
     }
