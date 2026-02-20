@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 // Load alumni data from external GeoJSON file
 async function loadAlumniData() {
   try {
-    const response = await fetch('Koordinat_Alumni_Lengkap_Redacted.geojson');
+    const response = await fetch('Koordinat_Alumni_Lengkap_Redacted_corrected.geojson');
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
