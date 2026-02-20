@@ -259,8 +259,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.7726587,
-          -6.5061991
+          106.7752344,
+          -6.5062125
         ]
       },
       "properties": {
@@ -273,7 +273,7 @@
         "email": "Afrifajar20@gmail.com ",
         "aktivitas_saat_ini": "Anggota Polisi",
         "alamat_kerja_url": "https://maps.app.goo.gl/AEebPvLkhY2hojY29",
-        "sumber_koordinat": "Extracted from Google Maps URL",
+        "sumber_koordinat": "Plus Code FQVG+G39 (6P58FQVG+G39)",
         "timestamp": "2025-08-26 18:47:27.350000"
       }
     },
